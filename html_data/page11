@@ -1,0 +1,676 @@
+<div id="RebuttalsContainerSorting">
+	<div>				<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 10, 25);">Previous</a>
+		<form method="get" action="WebsiteServlet">
+			<input type="hidden" name="requestType" value="browse">
+			<input type="hidden" name="linkSort" value="trending">
+			<input type="hidden" name="pageNumber" value="11">
+			<select name="numberPerPage" onchange="this.form.submit()">					<option value="10">10</option>
+									<option value="25" selected>25</option>
+									<option value="50">50</option>
+									<option value="100">100</option>
+							</select>
+		</form>		<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 12, 25);">Next</a>
+	</div>
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 1, 25);">Trending</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'popularity', 1, 25);">Popularity</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'date', 1, 25);">Date</a>
+</div>
+<table class="RebuttalsContainer"><tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.livescience.com/53401-fontus-converts-humidity-into-water.html">Self-Filling Water Bottle Converts Humid Air into Drinkable H2O</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232684&amp;fromPlugin=false -->
+            <span class="address">livescience.com/53401-fontus-converts-humidity-into-water.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232684" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232684&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232684&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232684&amp;fromPlugin=false">Fontus - self-filling water bottle (indiegogo scam campaign?) | Metabunk</a><br>
+                <span class="address">metabunk.org/fontus-self-filling-water-bottle-indiegogo-scam-campaign...</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.indiegogo.com/projects/fontus-the-self-filling-water-bottles-sport-camping#/">Fontus - The Self Filling Water Bottles | Indiegogo</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232682&amp;fromPlugin=false -->
+            <span class="address">indiegogo.com/projects/fontus-the-self-filling-water-bottles-sport-cam..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232682" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232682&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232682&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232682&amp;fromPlugin=false">Fontus - self-filling water bottle (indiegogo scam campaign?) | Metabunk</a><br>
+                <span class="address">metabunk.org/fontus-self-filling-water-bottle-indiegogo-scam-campaign...</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.facebook.com/Fontus2016/">No title : facebook.com/Fontus2016/</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232679&amp;fromPlugin=false -->
+            <span class="address">facebook.com/Fontus2016/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232679" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232679&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232679&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232679&amp;fromPlugin=false">EEVblog #881 - Fontus Self Filling Water Bottle BUSTED! - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=BhnoSREmWVY</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.jamesdysonaward.org/projects/fontus-2/">Fontus - James Dyson Award</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232676&amp;fromPlugin=false -->
+            <span class="address">jamesdysonaward.org/projects/fontus-2/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232676" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232676&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232676&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232676&amp;fromPlugin=false">EEVblog #881 - Fontus Self Filling Water Bottle BUSTED! - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=BhnoSREmWVY</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.collective-evolution.com/2016/01/29/take-a-look-at-this-self-filling-water-bottle-that-turns-air-into-drinkable-water/">Take A Look At This Self-Filling Water Bottle That Turns Air Into Drinkable Water &#8211; Collective Evolution</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232673&amp;fromPlugin=false -->
+            <span class="address">collective-evolution.com/2016/01/29/take-a-look-at-this-self-filling-w..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232673" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232673&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232673&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232673&amp;fromPlugin=false">EEVblog #881 - Fontus Self Filling Water Bottle BUSTED! - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=BhnoSREmWVY</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.businessinsider.com/the-fontus-self-filling-water-bottle-2016-1?IR=T">No title : businessinsider.com/the-fontus-self-filling-water-bottle-2016-1?IR=T</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232670&amp;fromPlugin=false -->
+            <span class="address">businessinsider.com/the-fontus-self-filling-water-bottle-2016-1?IR=T</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232670" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232670&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232670&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232670&amp;fromPlugin=false">EEVblog #881 - Fontus Self Filling Water Bottle BUSTED! - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=BhnoSREmWVY</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.digitaltrends.com/outdoor/fontus-self-filling-water-bottle-on-indiegogo/">Fontus, the Self-Filling Water Bottle, is on Indiegogo | Digital Trends</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232667&amp;fromPlugin=false -->
+            <span class="address">digitaltrends.com/outdoor/fontus-self-filling-water-bottle-on-indiegog..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232667" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232667&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232667&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232667&amp;fromPlugin=false">EEVblog #881 - Fontus Self Filling Water Bottle BUSTED! - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=BhnoSREmWVY</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://fontus.at/">fontus.at</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232664&amp;fromPlugin=false -->
+            <span class="address">fontus.at/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232664" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232664&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232664&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232664&amp;fromPlugin=false">EEVblog #881 - Fontus Self Filling Water Bottle BUSTED! - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=BhnoSREmWVY</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.livescience.com/53401-fontus-converts-humidity-into-water.html">Self-Filling Water Bottle Converts Humid Air into Drinkable H2O</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232661&amp;fromPlugin=false -->
+            <span class="address">livescience.com/53401-fontus-converts-humidity-into-water.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232661" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232661&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232661&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232661&amp;fromPlugin=false">EEVblog #881 - Fontus Self Filling Water Bottle BUSTED! - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=BhnoSREmWVY</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.indiegogo.com/projects/fontus-the-self-filling-water-bottles-sport-camping#/">Fontus - The Self Filling Water Bottles | Indiegogo</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232658&amp;fromPlugin=false -->
+            <span class="address">indiegogo.com/projects/fontus-the-self-filling-water-bottles-sport-cam..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232658" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232658&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232658&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232658&amp;fromPlugin=false">EEVblog #881 - Fontus Self Filling Water Bottle BUSTED! - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=BhnoSREmWVY</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10009" class="tag">Scam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232656" class="tag">Fontus</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=8232657" class="tag">Self-filling water bottle</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2556326" class="tag">Crowdfunding</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.youtube.com/watch?v=DDwe2M-LDZQ">Elon Musks Hyperloop: BUSTED! - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232554&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=DDwe2M-LDZQ</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232554" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232554&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232554&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232554&amp;fromPlugin=false">Thunderf00t&#39;s &quot;Hyperloop: Busted II&quot; Busted, Too - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=UQPAzZX7Pp4</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7543701" class="tag">Transport</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1912" class="tag">Physics</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7449916" class="tag">hyperloop</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3400827" class="tag">Engineering</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.youtube.com/watch?v=RNFesa01llk">The Hyperloop: BUSTED! - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232483&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=RNFesa01llk</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232483" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232483&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232483&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232483&amp;fromPlugin=false">Thunderf00t&#39;s &quot;Hyperloop: Busted&quot; BUSTED Part 3 - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=hDuXH2CJC10</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7543701" class="tag">Transport</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7449916" class="tag">hyperloop</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3400827" class="tag">Engineering</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.youtube.com/watch?v=RNFesa01llk">The Hyperloop: BUSTED! - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232480&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=RNFesa01llk</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232480" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232480&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232480&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232480&amp;fromPlugin=false">Thunderf00t&#39;s &quot;Hyperloop: Busted!&quot; BUSTED Part 2 - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=Uh0uwJoNnhc</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7543701" class="tag">Transport</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7449916" class="tag">hyperloop</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3400827" class="tag">Engineering</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.youtube.com/watch?v=YIVJvpNyjdc">How the Hyperloop can kill you! - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8232171&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=YIVJvpNyjdc</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8232171" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232171&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8232171&vote=-1">0</a></span>            0.0490
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8232171&amp;fromPlugin=false">Thunderf00t&#39;s &quot;How the Hyperloop can kill you&quot; KILLED - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=kx52A-v65Q8</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7543701" class="tag">Transport</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1912" class="tag">Physics</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7449916" class="tag">hyperloop</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3400827" class="tag">Engineering</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 14 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.wiseinternational.org/campaign">Don&#039;t Nuke the Climate: COP21 Paris | Wise International</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5573329&amp;fromPlugin=false -->
+            <span class="address">wiseinternational.org/campaign</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5573329" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5573329&vote=1">4</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5573329&vote=-1">0</a></span>            0.0486
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5573329&amp;fromPlugin=false">The clouded head's Blog: Don't Nuke the Climate??? Please be reasonable</a><br>
+                <span class="address">thecloudedhead.blogspot.nl/2015/06/dont-nuke-climate-please-be-reasona..</span>
+
+        <div class="comment">
+            &ldquo;Piece by piece takedown of the original article's points.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=78407" class="tag">nuclear energy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2591" class="tag">pseudoscience</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=315" class="tag">Climate Change</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5573325">Bryan Elliott</a> 23 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://piersicuta.blogspot.ro/2016/03/zika-noul-virus-fantoma.html">Jurnal si introspectii de mamica: Zika - noul virus-fantoma</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6398856&amp;fromPlugin=false -->
+            <span class="address">piersicuta.blogspot.ro/2016/03/zika-noul-virus-fantoma.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6398856" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6398856&vote=1">2</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6398856&vote=-1">0</a></span>            0.0485
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6398856&amp;fromPlugin=false">Detection of Zika Virus in Urine - Volume 21, Number 1—January 2015 - Emerging Infectious Disease journal - CDC</a><br>
+                <span class="address">wwwnc.cdc.gov/eid/article/21/1/14-0894_article</span>
+
+        <div class="comment">
+            &ldquo;Exemplu de detecÈie a virusului.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6292571" class="tag">zika</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1188868" class="tag">germ theory denialism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=196364" class="tag">anti-vaxx</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5094974">AlexGhi</a> 14 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://piersicuta.blogspot.ro/2016/03/zika-noul-virus-fantoma.html">Jurnal si introspectii de mamica: Zika - noul virus-fantoma</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6398853&amp;fromPlugin=false -->
+            <span class="address">piersicuta.blogspot.ro/2016/03/zika-noul-virus-fantoma.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6398853" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6398853&vote=1">2</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6398853&vote=-1">0</a></span>            0.0485
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6398853&amp;fromPlugin=false">No title : bmj.com/content/352/bmj.i1049.full</a><br>
+                <span class="address">bmj.com/content/352/bmj.i1049.full</span>
+
+        <div class="comment">
+            &ldquo;InformaÈii corecte despre virusul Zika&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6292571" class="tag">zika</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1188868" class="tag">germ theory denialism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=196364" class="tag">anti-vaxx</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5094974">AlexGhi</a> 14 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://nuclearfreeplanet.org/thorium-not-green-not-viable-and-not-likely-oliver-tickell-june-2012-.html#.VYhxY5BjVzo.facebook">Thorium: Not Green, Not Viable and Not Likely, Oliver Tickell, June 2012</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5569558&amp;fromPlugin=false -->
+            <span class="address">nuclearfreeplanet.org/thorium-not-green-not-viable-and-not-likely-oliv..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5569558" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5569558&vote=1">4</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5569558&vote=-1">0</a></span>            0.0485
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5569558&amp;fromPlugin=false">No title : thorconpower.com/docs/exec_summary.pdf</a><br>
+                <span class="address">thorconpower.com/docs/exec_summary.pdf</span>
+
+        <div class="comment">
+            &ldquo;This piece tackles many of the objections Tickell raises to Thorium and MSRs&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5569557" class="tag">LFTR</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5569556" class="tag">MSR</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4980761" class="tag">Nuclear Power</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5569555" class="tag">molten salt reactor</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5569554" class="tag">thorium</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4976247">John Stumbles</a> 22 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://bodyecology.com/articles/link_blood_type_personality_diet.php">The Links between Your Blood Type and Your Personality, Diet and More Explained | All Body Ecology Articles</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5569267&amp;fromPlugin=false -->
+            <span class="address">bodyecology.com/articles/link_blood_type_personality_diet.php</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5569267" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5569267&vote=1">4</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5569267&vote=-1">0</a></span>            0.0485
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5569267&amp;fromPlugin=false">No title : youtube.com/watch?v=CW0LwL0XQVo</a><br>
+                <span class="address">youtube.com/watch?v=CW0LwL0XQVo</span>
+
+        <div class="comment">
+            &ldquo;Blood type doesn't affect diet, but may have other effects&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5569253" class="tag">Peter D'Adamo</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=389154" class="tag">naturopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5569252" class="tag">Blood Type Diet</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2171826">Thomas Warner</a> 22 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.boughtmovie.net/free-viewing/">Free Viewing of Bought Movie</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5139421&amp;fromPlugin=false -->
+            <span class="address">boughtmovie.net/free-viewing/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5139421" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5139421&vote=1">5</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5139421&vote=-1">0</a></span>            0.0481
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5139421&amp;fromPlugin=false">‘Bought’ movie: Full of appalling misinformation - New York Food | Examiner.com</a><br>
+                <span class="address">examiner.com/article/bought-movie-full-of-appalling-misinformation</span>
+
+        <div class="comment">
+            &ldquo;Misinformers misinforming.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4186094" class="tag">Anti-GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=196364" class="tag">anti-vaxx</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5719" class="tag">vaccines</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 02 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.naturalnews.com/048827_chemotherapy_cancer_treatment_patient_survival.html">Chemotherapy kills cancer patients faster than no treatment at all - NaturalNews.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8225743&amp;fromPlugin=false -->
+            <span class="address">naturalnews.com/048827_chemotherapy_cancer_treatment_patient_survival...</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8225743" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8225743&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8225743&vote=-1">0</a></span>            0.0481
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8225743&amp;fromPlugin=false">Chemotherapy Doesn't Work, Doctor Blows the Whistle : snopes.com</a><br>
+                <span class="address">snopes.com/chemotherapy-doctor-blows-the-whistle/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=49691" class="tag">chemotherapy</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2463">pjvanerp</a> 13 Oct</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.youtube.com/watch?v=zhBymLCRIU8">Free Energy Finally Discovered  | Rodin Coil Vortex Based Math | TEDxCharlotte 2010 Randy Powell - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5125405&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=zhBymLCRIU8</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5125405" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5125405&vote=1">5</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5125405&vote=-1">0</a></span>            0.0477
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5125405&amp;fromPlugin=false">When TED Lost Control of Its Crowd - HBR</a><br>
+                <span class="address">hbr.org/2013/04/when-ted-lost-control-of-its-crowd/</span>
+
+        <div class="comment">
+            &ldquo;Why TEDx is not TED, and how TED has lost control of it's brand&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2268" class="tag">TED</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=12262" class="tag">free energy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=54102" class="tag">TEDx</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=76">Craig</a> 26 Feb</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://bigthink.com/devil-in-the-data/the-trouble-with-darwin">The Trouble with Darwin | Devil in the Data | Big Think</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=1812259&amp;fromPlugin=false -->
+            <span class="address">bigthink.com/devil-in-the-data/the-trouble-with-darwin</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=1812259" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=1812259&vote=1">10</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=1812259&vote=-1">1</a></span>            0.0476
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=1812259&amp;fromPlugin=false">No title : whyevolutionistrue.wordpress.com/2014/02/16/a-big-stink-at-the-big-thi..</a><br>
+                <span class="address">whyevolutionistrue.wordpress.com/2014/02/16/a-big-stink-at-the-big-thi..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=11927" class="tag">Darwinism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=503604" class="tag">Darwin</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4104" class="tag">DNA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1812258" class="tag">Survival of the Fittest</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=104" class="tag">Evolution</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1812174">prisimran</a> 17 Feb</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.wsj.com/articles/at-its-heart-science-is-faith-based-too-1457049114">At Its Heart, Science Is Faith-Based Too - WSJ</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6385526&amp;fromPlugin=false -->
+            <span class="address">wsj.com/articles/at-its-heart-science-is-faith-based-too-1457049114</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6385526" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6385526&vote=1">2</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6385526&vote=-1">0</a></span>            0.0473
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6385526&amp;fromPlugin=false">No title : forbes.com/sites/startswithabang/2016/03/08/science-is-not-faith-based..</a><br>
+                <span class="address">forbes.com/sites/startswithabang/2016/03/08/science-is-not-faith-based..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4845" class="tag">Media</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 10 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://secondnexus.com/potpourri/intelligence-inherited-from-the-mother/">New Research Establishes that Intelligence Is Inherited from the Mother Â» Second Nexus</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=8218012&amp;fromPlugin=false -->
+            <span class="address">secondnexus.com/potpourri/intelligence-inherited-from-the-mother/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=8218012" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8218012&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=8218012&vote=-1">0</a></span>            0.0472
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=8218012&amp;fromPlugin=false">No title : forbes.com/sites/emilywillingham/2016/09/16/no-research-has-not-establ..</a><br>
+                <span class="address">forbes.com/sites/emilywillingham/2016/09/16/no-research-has-not-establ..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=102" class="tag">Skepticism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5420" class="tag">intelligence</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2526006">Cory Johnston</a> 12 Oct</span>
+    </td>
+</tr>
+	</table>
+<div id="Pagination">		<a onclick="getContent('ajaxLinks', 'trending', 10, 25);" href="javascript:void(0);">&lt;&lt; Previous Page</a>
+		11
+	<a onclick="getContent('ajaxLinks', 'trending', 12, 25);" href="javascript:void(0);">Next Page &gt;&gt;</a>
+</div>

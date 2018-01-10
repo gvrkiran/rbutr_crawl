@@ -1,0 +1,658 @@
+<div id="RebuttalsContainerSorting">
+	<div>				<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 164, 25);">Previous</a>
+		<form method="get" action="WebsiteServlet">
+			<input type="hidden" name="requestType" value="browse">
+			<input type="hidden" name="linkSort" value="trending">
+			<input type="hidden" name="pageNumber" value="165">
+			<select name="numberPerPage" onchange="this.form.submit()">					<option value="10">10</option>
+									<option value="25" selected>25</option>
+									<option value="50">50</option>
+									<option value="100">100</option>
+							</select>
+		</form>		<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 166, 25);">Next</a>
+	</div>
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 1, 25);">Trending</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'popularity', 1, 25);">Popularity</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'date', 1, 25);">Date</a>
+</div>
+<table class="RebuttalsContainer"><tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.thetimes.co.uk/tto/environment/article4602992.ece">Expanding Antarctica eases threat from rising sea levels | The Times</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6020865&amp;fromPlugin=false -->
+            <span class="address">thetimes.co.uk/tto/environment/article4602992.ece</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6020865" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020865&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020865&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6020865&amp;fromPlugin=false">Q&A: Is Antarctica gaining or losing ice?</a><br>
+                <span class="address">carbonbrief.org/qa-is-antarctica-gaining-or-losing-ice</span>
+
+        <div class="comment">
+            &ldquo;Media not really understanding new climate paper.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=184529" class="tag">Antarctica</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5951" class="tag">Global Warming</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6020860" class="tag">sea level rise</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6020861" class="tag">ice loss</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=315" class="tag">Climate Change</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.newsweek.com/antarctica-gaining-ice-heres-why-thats-not-actually-good-news-389904">No title : newsweek.com/antarctica-gaining-ice-heres-why-thats-not-actually-good-..</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6020862&amp;fromPlugin=false -->
+            <span class="address">newsweek.com/antarctica-gaining-ice-heres-why-thats-not-actually-good-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6020862" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020862&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020862&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6020862&amp;fromPlugin=false">Q&A: Is Antarctica gaining or losing ice?</a><br>
+                <span class="address">carbonbrief.org/qa-is-antarctica-gaining-or-losing-ice</span>
+
+        <div class="comment">
+            &ldquo;Media not really understanding new climate paper.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=184529" class="tag">Antarctica</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5951" class="tag">Global Warming</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6020860" class="tag">sea level rise</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6020861" class="tag">ice loss</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=315" class="tag">Climate Change</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theguardian.com/healthcare-network/2015/oct/13/acupuncture-used-more-widely-nhs">Should acupuncture be used more widely in the NHS? | Healthcare Professionals Network | The Guardian</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6020836&amp;fromPlugin=false -->
+            <span class="address">theguardian.com/healthcare-network/2015/oct/13/acupuncture-used-more-w..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6020836" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020836&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020836&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6020836&amp;fromPlugin=false">ACUPUNCTURE: poor evidence, poorer journalism</a><br>
+                <span class="address">edzardernst.com/2015/10/acupuncture-poor-evidence-poorer-journalism/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10445" class="tag">Acupuncture</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.nature.com/news/consider-all-the-evidence-on-alternative-therapies-1.18547">Consider all the evidence on alternative therapies : Nature News &amp; Comment</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6020826&amp;fromPlugin=false -->
+            <span class="address">nature.com/news/consider-all-the-evidence-on-alternative-therapies-1.1..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6020826" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020826&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020826&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6020826&amp;fromPlugin=false">In the pages of Nature, a full-throated defense of “integrating” quackery into medicine – Respectful Insolence</a><br>
+                <span class="address">scienceblogs.com/insolence/2015/10/15/in-the-pages-of-nature-a-full-th..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2104" class="tag">Alternative Medicine</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://well.blogs.nytimes.com/2015/10/05/chiropractic-care-grows-and-gains-acceptance/">Chiropractic Care Grows, and Gains Acceptance - NYTimes.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6020803&amp;fromPlugin=false -->
+            <span class="address">well.blogs.nytimes.com/2015/10/05/chiropractic-care-grows-and-gains-ac..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6020803" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020803&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020803&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6020803&amp;fromPlugin=false">The Time a Pulitzer Prize Winning Journalist Got Manipulated by a Chiropractor « Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/the-time-a-pulitzer-prize-winning-journalist-..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6553" class="tag">Chiropractic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.dailymail.co.uk/health/article-3282663/Woman-41-advanced-breast-cancer-REFUSES-chemotherapy-favour-drinking-urine-homoeopathy-psychic-surgeon-try-cure-herself.html">Woman with breast cancer REFUSES chemotherapy and drinks her own urine | Daily Mail Online</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6020796&amp;fromPlugin=false -->
+            <span class="address">dailymail.co.uk/health/article-3282663/Woman-41-advanced-breast-cancer..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6020796" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020796&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020796&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6020796&amp;fromPlugin=false">Public service announcement: No, drinking your own urine will not cure breast cancer – Respectful Insolence</a><br>
+                <span class="address">scienceblogs.com/insolence/2015/10/23/public-service-announcement-no-d..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5372279" class="tag">Urinetherapie</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-science/308269/#article-comments">Dr. John Ioannidis Exposes the Bad Science of Colleagues - The Atlantic</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6020757&amp;fromPlugin=false -->
+            <span class="address">theatlantic.com/magazine/archive/2010/11/lies-damned-lies-and-medical-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6020757" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020757&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020757&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6020757&amp;fromPlugin=false">Lies, damned lies, andâ¦science-based medicine? Â« Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/lies-damned-lies-and-science-based-medicine/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1816" class="tag">Medicine</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=13458">Lazarius</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf">No title : pnas.org/content/early/2015/10/29/1518393112.full.pdf</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6020285&amp;fromPlugin=false -->
+            <span class="address">pnas.org/content/early/2015/10/29/1518393112.full.pdf</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6020285" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020285&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6020285&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6020285&amp;fromPlugin=false">Black Lives Matter? Not in an NYT Graphic — FAIR</a><br>
+                <span class="address">fair.org/home/black-lives-matter-not-in-an-nyt-graphic/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4845" class="tag">Media</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1895731">BTR</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://articles.mercola.com/sites/articles/archive/2011/10/06/dangerous-toxins-from-gmo-foods.aspx">Dangerous Bt-Toxin Found in Monsanto’s GM Corn</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6018575&amp;fromPlugin=false -->
+            <span class="address">articles.mercola.com/sites/articles/archive/2011/10/06/dangerous-toxin..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6018575" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6018575&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6018575&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6018575&amp;fromPlugin=false">If you record noise, you don’t get music – you get nonsense. « Biology Fortified, Inc.</a><br>
+                <span class="address">biofortified.org/2011/04/nonsense/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5777452" class="tag">bt toxin</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=856232" class="tag">gmo food safety</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://articles.mercola.com/sites/articles/archive/2011/10/06/dangerous-toxins-from-gmo-foods.aspx">Dangerous Bt-Toxin Found in Monsanto’s GM Corn</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6018572&amp;fromPlugin=false -->
+            <span class="address">articles.mercola.com/sites/articles/archive/2011/10/06/dangerous-toxin..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6018572" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6018572&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6018572&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6018572&amp;fromPlugin=false">There’s no Bt in your blood « Biology Fortified, Inc.</a><br>
+                <span class="address">biofortified.org/2012/10/bt-in-blood/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5777452" class="tag">bt toxin</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=856232" class="tag">gmo food safety</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.superstation95.com/index.php/world/item/493-surprise-you-re-eating-fukushima-radiation-bloody-cancerous-tumors-in-fish-seafood">SURPRISE! You're Eating Fukushima Radiation; Bloody Cancerous Tumors in Fish &amp; Seafood</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6018005&amp;fromPlugin=false -->
+            <span class="address">superstation95.com/index.php/world/item/493-surprise-you-re-eating-fuk..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6018005" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6018005&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6018005&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6018005&amp;fromPlugin=false">The Physics Police: Fukushima Lying Liars that Lie</a><br>
+                <span class="address">thephysicspolice.blogspot.co.uk/2014/02/fukushima-lying-liars-that-lie..</span>
+
+        <div class="comment">
+            &ldquo;counters the claims made in the original article&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=157569" class="tag">testicle-eating fish</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=150506" class="tag">Radiation</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=144069" class="tag">Fukushima</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4976247">John Stumbles</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.slate.com/articles/news_and_politics/politics/2009/10/message_error.html">No title : slate.com/articles/news_and_politics/politics/2009/10/message_error.ht..</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6017831&amp;fromPlugin=false -->
+            <span class="address">slate.com/articles/news_and_politics/politics/2009/10/message_error.ht..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6017831" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6017831&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6017831&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6017831&amp;fromPlugin=false">Correcting Drupal FUD | MikeKeran.com</a><br>
+                <span class="address">mikekeran.com/correcting-drupal-fud</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7810" class="tag">Government</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4268" class="tag">web development</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5593906">Evan Derickson</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.slate.com/articles/news_and_politics/politics/2009/10/message_error.html">No title : slate.com/articles/news_and_politics/politics/2009/10/message_error.ht..</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6017828&amp;fromPlugin=false -->
+            <span class="address">slate.com/articles/news_and_politics/politics/2009/10/message_error.ht..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6017828" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6017828&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6017828&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6017828&amp;fromPlugin=false">Misinformation: A response to Chris Wilson's Whitehouse.gov article on Slate - RocketModule</a><br>
+                <span class="address">rocketmodule.com/blog/misinformation-response-chris-wilsons-whitehouse..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=7810" class="tag">Government</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4268" class="tag">web development</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5593906">Evan Derickson</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://likemindedmamas.com/natural-remedies-whooping-cough/">Natural Remedies for Whooping Cough: Getting Through It IS Possible</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016978&amp;fromPlugin=false -->
+            <span class="address">likemindedmamas.com/natural-remedies-whooping-cough/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016978" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016978&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016978&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016978&amp;fromPlugin=false">Suffer the unvaccinated little children! | The Skeptical OB</a><br>
+                <span class="address">skepticalob.com/2015/11/suffer-the-unvaccinated-little-children.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=503224" class="tag">Natural</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6016977" class="tag">whooping cough</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5719" class="tag">vaccines</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.scirp.org/journal/PaperInformation.aspx?PaperID=57871">Do GMOs Accumulate Formaldehyde and Disrupt Molecular Systems Equilibria? Systems Biology May Provide Answers</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016188&amp;fromPlugin=false -->
+            <span class="address">scirp.org/journal/PaperInformation.aspx?PaperID=57871</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016188" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016188&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016188&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016188&amp;fromPlugin=false">Professor Parrott: GMO reports that fail</a><br>
+                <span class="address">parrottlab.uga.edu/ProfParrott/EquilibriaDisruption2015.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=856232" class="tag">gmo food safety</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.realnatural.org/gmo-soy-accumulates-carcinogen-formaldehyde/">GMO Soy Accumulates Carcinogen Formaldehyde - Heal Naturally</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016186&amp;fromPlugin=false -->
+            <span class="address">realnatural.org/gmo-soy-accumulates-carcinogen-formaldehyde/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016186" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016186&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016186&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016186&amp;fromPlugin=false">Professor Parrott: GMO reports that fail</a><br>
+                <span class="address">parrottlab.uga.edu/ProfParrott/EquilibriaDisruption2015.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=856232" class="tag">gmo food safety</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://merid.org/en/Content/News_Services/Food_Security_and_AgBiotech_News/Articles/2015/Jul/15/Roundup.aspx">Do GMOs Accumulate Formaldehyde and Disrupt Molecular Systems Equilibria? Systems Biology May Provide Answers</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016184&amp;fromPlugin=false -->
+            <span class="address">merid.org/en/Content/News_Services/Food_Security_and_AgBiotech_News/Ar..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016184" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016184&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016184&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016184&amp;fromPlugin=false">Professor Parrott: GMO reports that fail</a><br>
+                <span class="address">parrottlab.uga.edu/ProfParrott/EquilibriaDisruption2015.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=856232" class="tag">gmo food safety</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.gmwatch.org/news/latest-news/16297-do-gm-soybean-plants-accumulate-formaldehyde">Do GM soybean plants accumulate formaldehyde?</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016182&amp;fromPlugin=false -->
+            <span class="address">gmwatch.org/news/latest-news/16297-do-gm-soybean-plants-accumulate-for..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016182" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016182&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016182&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016182&amp;fromPlugin=false">Professor Parrott: GMO reports that fail</a><br>
+                <span class="address">parrottlab.uga.edu/ProfParrott/EquilibriaDisruption2015.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=856232" class="tag">gmo food safety</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.integrativesystems.org/systems-biology-of-gmos/">PEER-REVIEWED PAPER SUGGESTS GENETICALLY ENGINEERED SOY (GMO) PRODUCES EXCESS FORMALDEHYDE AND DISRUPTS NATURAL PLANT METABOLISM | International Center for Integrative Systems</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016180&amp;fromPlugin=false -->
+            <span class="address">integrativesystems.org/systems-biology-of-gmos/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016180" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016180&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016180&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016180&amp;fromPlugin=false">Professor Parrott: GMO reports that fail</a><br>
+                <span class="address">parrottlab.uga.edu/ProfParrott/EquilibriaDisruption2015.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=856232" class="tag">gmo food safety</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.realnatural.org/gmo-soy-accumulates-carcinogen-formaldehyde/">GMO Soy Accumulates Carcinogen Formaldehyde - Heal Naturally</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016177&amp;fromPlugin=false -->
+            <span class="address">realnatural.org/gmo-soy-accumulates-carcinogen-formaldehyde/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016177" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016177&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016177&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016177&amp;fromPlugin=false">Kevin Folta debunks pay for play paper finding formaldehyde in GMOs | Genetic Literacy Project</a><br>
+                <span class="address">geneticliteracyproject.org/2015/07/21/kevin-folta-debunks-pay-for-play..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.thesparc.net/eprint_details/317/do-gmos-accumulate-formaldehyde-and-disrupt-molecular-systems-equilibria-systems-biology-may-provide-answers/">Do GMOs Accumulate Formaldehyde and Disrupt Molecular Systems Equilibria? Systems Biology May Provide Answers</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016174&amp;fromPlugin=false -->
+            <span class="address">thesparc.net/eprint_details/317/do-gmos-accumulate-formaldehyde-and-di..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016174" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016174&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016174&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016174&amp;fromPlugin=false">Kevin Folta debunks pay for play paper finding formaldehyde in GMOs | Genetic Literacy Project</a><br>
+                <span class="address">geneticliteracyproject.org/2015/07/21/kevin-folta-debunks-pay-for-play..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.linkedin.com/pulse/do-gmos-accumulate-formaldehyde-disrupt-molecular-systems-winni-wu">Do GMOs Accumulate Formaldehyde and Disrupt Molecular Systems Equilibria?</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016171&amp;fromPlugin=false -->
+            <span class="address">linkedin.com/pulse/do-gmos-accumulate-formaldehyde-disrupt-molecular-s..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016171" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016171&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016171&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016171&amp;fromPlugin=false">Kevin Folta debunks pay for play paper finding formaldehyde in GMOs | Genetic Literacy Project</a><br>
+                <span class="address">geneticliteracyproject.org/2015/07/21/kevin-folta-debunks-pay-for-play..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://merid.org/en/Content/News_Services/Food_Security_and_AgBiotech_News/Articles/2015/Jul/15/Roundup.aspx">Do GMOs Accumulate Formaldehyde and Disrupt Molecular Systems Equilibria? Systems Biology May Provide Answers</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016168&amp;fromPlugin=false -->
+            <span class="address">merid.org/en/Content/News_Services/Food_Security_and_AgBiotech_News/Ar..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016168" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016168&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016168&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016168&amp;fromPlugin=false">Kevin Folta debunks pay for play paper finding formaldehyde in GMOs | Genetic Literacy Project</a><br>
+                <span class="address">geneticliteracyproject.org/2015/07/21/kevin-folta-debunks-pay-for-play..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.gmwatch.org/news/latest-news/16297-do-gm-soybean-plants-accumulate-formaldehyde">Do GM soybean plants accumulate formaldehyde?</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016165&amp;fromPlugin=false -->
+            <span class="address">gmwatch.org/news/latest-news/16297-do-gm-soybean-plants-accumulate-for..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016165" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016165&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016165&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016165&amp;fromPlugin=false">Kevin Folta debunks pay for play paper finding formaldehyde in GMOs | Genetic Literacy Project</a><br>
+                <span class="address">geneticliteracyproject.org/2015/07/21/kevin-folta-debunks-pay-for-play..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.scirp.org/journal/PaperInformation.aspx?PaperID=57871">Do GMOs Accumulate Formaldehyde and Disrupt Molecular Systems Equilibria? Systems Biology May Provide Answers</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=6016162&amp;fromPlugin=false -->
+            <span class="address">scirp.org/journal/PaperInformation.aspx?PaperID=57871</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=6016162" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016162&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=6016162&vote=-1">0</a></span>            0.0024
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=6016162&amp;fromPlugin=false">Kevin Folta debunks pay for play paper finding formaldehyde in GMOs | Genetic Literacy Project</a><br>
+                <span class="address">geneticliteracyproject.org/2015/07/21/kevin-folta-debunks-pay-for-play..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3648092" class="tag">Biotechnology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4263738" class="tag">Food safety</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	</table>
+<div id="Pagination">		<a onclick="getContent('ajaxLinks', 'trending', 164, 25);" href="javascript:void(0);">&lt;&lt; Previous Page</a>
+		165
+	<a onclick="getContent('ajaxLinks', 'trending', 166, 25);" href="javascript:void(0);">Next Page &gt;&gt;</a>
+</div>

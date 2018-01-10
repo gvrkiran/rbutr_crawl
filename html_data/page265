@@ -1,0 +1,644 @@
+<div id="RebuttalsContainerSorting">
+	<div>				<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 264, 25);">Previous</a>
+		<form method="get" action="WebsiteServlet">
+			<input type="hidden" name="requestType" value="browse">
+			<input type="hidden" name="linkSort" value="trending">
+			<input type="hidden" name="pageNumber" value="265">
+			<select name="numberPerPage" onchange="this.form.submit()">					<option value="10">10</option>
+									<option value="25" selected>25</option>
+									<option value="50">50</option>
+									<option value="100">100</option>
+							</select>
+		</form>		<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 266, 25);">Next</a>
+	</div>
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 1, 25);">Trending</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'popularity', 1, 25);">Popularity</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'date', 1, 25);">Date</a>
+</div>
+<table class="RebuttalsContainer"><tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://twitter.com/zachshoup/status/396999007274553344">Zach Shoup on Twitter: "I am a Christian You can ridicule me You can torture me You can kill me. But you can't change my mind. http://t.co/3258NsR9PQ"</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4658840&amp;fromPlugin=false -->
+            <span class="address">twitter.com/zachshoup/status/396999007274553344</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4658840" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658840&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658840&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4658840&amp;fromPlugin=false">No title : i.imgur.com/M2fZmeW.png</a><br>
+                <span class="address">i.imgur.com/M2fZmeW.png</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=101" class="tag">Atheism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=40" class="tag">Religion</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2181" class="tag">Christianity</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 06 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.pinterest.com/pin/319474167286503514/">Pin by Audrey Saefke on Jesus is Lord! | Pinterest</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4658837&amp;fromPlugin=false -->
+            <span class="address">pinterest.com/pin/319474167286503514/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4658837" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658837&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658837&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4658837&amp;fromPlugin=false">No title : i.imgur.com/M2fZmeW.png</a><br>
+                <span class="address">i.imgur.com/M2fZmeW.png</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=101" class="tag">Atheism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=40" class="tag">Religion</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2181" class="tag">Christianity</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 06 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.flickr.com/photos/imtheirmama/10735297434/">I am a Christian. Ridicule me. Torture me. Kill me. But you'll never change my mind. #God #Jesus #Christ #Lord #bible #Christians #church #scripture #verse #notashamed | Flickr - Photo Sharing!</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4658834&amp;fromPlugin=false -->
+            <span class="address">flickr.com/photos/imtheirmama/10735297434/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4658834" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658834&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658834&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4658834&amp;fromPlugin=false">No title : i.imgur.com/M2fZmeW.png</a><br>
+                <span class="address">i.imgur.com/M2fZmeW.png</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=101" class="tag">Atheism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=40" class="tag">Religion</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2181" class="tag">Christianity</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 06 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://twicsy.com/i/iedL8c">web_pastor : I&#xb4;am a Christian. You can ridicule me. You can torture me, you can kill me&#x2026; but you cannot change my mind http://t.co/BSht2cNc | Twicsy - Twitter Picture Discovery</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4658831&amp;fromPlugin=false -->
+            <span class="address">twicsy.com/i/iedL8c</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4658831" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658831&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658831&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4658831&amp;fromPlugin=false">No title : i.imgur.com/M2fZmeW.png</a><br>
+                <span class="address">i.imgur.com/M2fZmeW.png</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=101" class="tag">Atheism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=40" class="tag">Religion</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2181" class="tag">Christianity</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 06 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.pinterest.com/pin/573083121303157320/">No title : pinterest.com/pin/573083121303157320/</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4658828&amp;fromPlugin=false -->
+            <span class="address">pinterest.com/pin/573083121303157320/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4658828" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658828&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658828&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4658828&amp;fromPlugin=false">No title : i.imgur.com/M2fZmeW.png</a><br>
+                <span class="address">i.imgur.com/M2fZmeW.png</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=101" class="tag">Atheism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=40" class="tag">Religion</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2181" class="tag">Christianity</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 06 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://motorcycles.browzen.com/p/6JKYmu">TW Wright photo - I am a Christian. You can ridicule... | MotorcycleBoard</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4658825&amp;fromPlugin=false -->
+            <span class="address">motorcycles.browzen.com/p/6JKYmu</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4658825" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658825&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658825&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4658825&amp;fromPlugin=false">No title : i.imgur.com/M2fZmeW.png</a><br>
+                <span class="address">i.imgur.com/M2fZmeW.png</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=101" class="tag">Atheism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=40" class="tag">Religion</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2181" class="tag">Christianity</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 06 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://annals.org/article.aspx?articleid=1789253">Annals of Internal Medicine | Article</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4658811&amp;fromPlugin=false -->
+            <span class="address">annals.org/article.aspx?articleid=1789253</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4658811" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658811&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658811&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4658811&amp;fromPlugin=false">Rebuttal: Why You Should NOT Stop Taking Your Multivitamin | The Healthy Living Blog of Dr. Lori</a><br>
+                <span class="address">dlshealthworks.com/blog/rebuttal-why-you-should-not-stop-taking-your-m..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=988967" class="tag">Vitamins</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=25" class="tag">Health</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 06 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://annals.org/article.aspx?articleid=1789253">Annals of Internal Medicine | Article</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4658808&amp;fromPlugin=false -->
+            <span class="address">annals.org/article.aspx?articleid=1789253</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4658808" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658808&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4658808&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4658808&amp;fromPlugin=false">Findings from Flawed Study Used To Discredit Multivitamin/Mineral Supplements</a><br>
+                <span class="address">lef.org/Featured%20Articles/2011/10/Flawed%20Study%20Used%20To%20Discr..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=988967" class="tag">Vitamins</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=25" class="tag">Health</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10" class="tag">Science</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 06 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.jsonline.com/news/opinion/scott-walker-made-the-right-decision-on-medicaid-expansion-b99376397z1-280373632.html">Scott Walker made the right decision on Medicaid expansion</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4654883&amp;fromPlugin=false -->
+            <span class="address">jsonline.com/news/opinion/scott-walker-made-the-right-decision-on-medi..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4654883" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654883&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654883&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4654883&amp;fromPlugin=false">Scott Walker and MacIver report wrong on health care</a><br>
+                <span class="address">jsonline.com/news/opinion/scott-walker-and-maciver-report-wrong-on-hea..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6319" class="tag">USA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3579906" class="tag">healthcare</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 05 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://static.maciverinstitute.com/MacIver%20NCPA%20-%20Medicaid%20WI%20Got%20It%20Right.pdf">No title : static.maciverinstitute.com/MacIver%20NCPA%20-%20Medicaid%20WI%20Got%2..</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4654880&amp;fromPlugin=false -->
+            <span class="address">static.maciverinstitute.com/MacIver%20NCPA%20-%20Medicaid%20WI%20Got%2..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4654880" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654880&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654880&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4654880&amp;fromPlugin=false">Scott Walker and MacIver report wrong on health care</a><br>
+                <span class="address">jsonline.com/news/opinion/scott-walker-and-maciver-report-wrong-on-hea..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6319" class="tag">USA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3579906" class="tag">healthcare</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 05 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.youtube.com/watch?v=Md_53pnAcio">GamerGate: What&#39;s REALLY Going On? - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4654839&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=Md_53pnAcio</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4654839" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654839&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654839&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4654839&amp;fromPlugin=false">Everything TotalBiscuit got Wrong in Way Too Many Words — Medium</a><br>
+                <span class="address">medium.com/@SvizraLion/everything-totalbiscuit-got-wrong-in-way-too-ma..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4345743" class="tag">Gamergate</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 05 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://huzlers.com/nasa-confirms-earth-will-experience-6-days-total-darkness-december-2014/">NASA Confirms Earth Will Experience 6 Days of Total Darkness in December 2014! NASA Confirms Earth Will Experience 6 Days of Total Darkness in December 2014!  Huzlers</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4654200&amp;fromPlugin=false -->
+            <span class="address">huzlers.com/nasa-confirms-earth-will-experience-6-days-total-darkness-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4654200" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654200&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654200&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4654200&amp;fromPlugin=false">snopes.com: NASA Blackout Warning</a><br>
+                <span class="address">snopes.com/science/astronomy/blackout.asp</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1760" class="tag">NASA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=57535" class="tag">Space</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 05 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://metro.co.uk/2014/11/02/weatherman-caught-peeing-live-on-camera-4931447/">Weatherman Mike Seidel caught peeing live on camera | Metro News</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4654194&amp;fromPlugin=false -->
+            <span class="address">metro.co.uk/2014/11/02/weatherman-caught-peeing-live-on-camera-4931447..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4654194" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654194&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4654194&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4654194&amp;fromPlugin=false">Weather Channel’s Mike Seidel was not caught with his pants down | Poynter.</a><br>
+                <span class="address">poynter.org/how-tos/newsgathering-storytelling/eyes-on-the-news/279093..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=-11" class="tag">Journalism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1994081" class="tag">News</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4845" class="tag">Media</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 05 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.youtube.com/watch?v=Rfd_1UAjeIA">Is God Good? - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4651134&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=Rfd_1UAjeIA</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4651134" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4651134&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4651134&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4651134&amp;fromPlugin=false">Can You Blame God for Evil? - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=kzI-qyeS1CU</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2248" class="tag">Free Will</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=40" class="tag">Religion</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4651133" class="tag">good and evil</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=200905">Lorne Dmitruk</a> 05 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.elkharttruth.com/living/Community-Blogs/Blue-Eyes/2014/11/02/Sheriff-Brad-Rogers-connections-with-right-wing-extremism-are-a-disturbing-development-for-Elkhart-County-community-blogger-says.html">Sheriff Brad Rogers' connections with right-wing extremism are a disturbing development for Elkhart County, community blogger says - Elkhart Truth</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4650016&amp;fromPlugin=false -->
+            <span class="address">elkharttruth.com/living/Community-Blogs/Blue-Eyes/2014/11/02/Sheriff-B..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4650016" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4650016&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4650016&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4650016&amp;fromPlugin=false">My Point-By-Point Rebuttal Of &#8216;Community Blogger&#8217;s&#8217; Anti-Sheriff Brad Rogers Column : The Burning Truth</a><br>
+                <span class="address">theburningtruth.us/2014/11/03/my-point-by-point-rebuttal-of-community-..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://openstandard.mozilla.org/yes-gamergate-is-a-ed-tech-issue/">Yes, #Gamergate is an Ed-Tech Issue | The Open Standard</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4649959&amp;fromPlugin=false -->
+            <span class="address">openstandard.mozilla.org/yes-gamergate-is-a-ed-tech-issue/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4649959" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4649959&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4649959&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4649959&amp;fromPlugin=false">Yes, #GamerGate is Everyone&#8217;s Issue | The Open Standard</a><br>
+                <span class="address">openstandard.mozilla.org/yes-gamergate-is-everyones-issue/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4345743" class="tag">Gamergate</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=837" class="tag">Sexism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4649958" class="tag">Edutech</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=133765" class="tag">Harrassment</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1164" class="tag">feminism</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.amazon.com/Revolution-Russell-Brand/dp/1101882913">No title : amazon.com/Revolution-Russell-Brand/dp/1101882913</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4649823&amp;fromPlugin=false -->
+            <span class="address">amazon.com/Revolution-Russell-Brand/dp/1101882913</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4649823" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4649823&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4649823&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4649823&amp;fromPlugin=false">Russell Brand’s Revolution For Morons - The Daily Beast</a><br>
+                <span class="address">thedailybeast.com/articles/2014/11/02/russell-brand-s-revolution-for-m..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136354" class="tag">Capitalism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=331431" class="tag">Revolution</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4649822" class="tag">Russell Brand</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.wired.com/2014/10/virgin-galactic-boondoggle/">Space Tourism Isn't Worth Dying For | WIRED</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4648371&amp;fromPlugin=false -->
+            <span class="address">wired.com/2014/10/virgin-galactic-boondoggle/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4648371" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4648371&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4648371&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4648371&amp;fromPlugin=false">Space tourism is totally worth dying for</a><br>
+                <span class="address">patheos.com/blogs/hallq/2014/11/space-tourism-wired-virgin-galactic-pi..</span>
+
+        <div class="comment">
+            &ldquo;Points out that many activities in daily life involve real risks, yet people think the risks are worthwhile&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4645071" class="tag">Space Tourism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2616667" class="tag">space technology</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=13916">scottmcgreal</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theaustralian.com.au/arts/review/nick-cater-shows-hes-a-working-class-fan-in-the-lucky-culture/story-fn9n8gph-1226637823501">Cookies must be enabled. | The Australian</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4648139&amp;fromPlugin=false -->
+            <span class="address">theaustralian.com.au/arts/review/nick-cater-shows-hes-a-working-class-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4648139" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4648139&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4648139&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4648139&amp;fromPlugin=false">Nick Cater's The Lucky Culture knows nothing about Australia | Crikey</a><br>
+                <span class="address">crikey.com.au/2013/04/23/what-nick-caters-book-gets-wrong-about-austra..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=11435" class="tag">Australia</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4648138" class="tag">Australian culture</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=11178">pythias</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://eft.mercola.com/">Emotional Freedom Technique (EFT) - Emotional Health</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4647357&amp;fromPlugin=false -->
+            <span class="address">eft.mercola.com/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4647357" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4647357&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4647357&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4647357&amp;fromPlugin=false">Emotional Freedom Techniques (EFT) - The Skeptic's Dictionary - Skepdic.com</a><br>
+                <span class="address">skepdic.com/eft.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2833696" class="tag">EMotional Freedom Technique</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1669475" class="tag">EFT</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=6414">firebirdsfather</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.fireitupwithcj.com/2014/10/28/eft-universe/">EFT Universe: Powering up your daily affirmations with EFT (Dawson Church) - Fire it up with cj</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4647354&amp;fromPlugin=false -->
+            <span class="address">fireitupwithcj.com/2014/10/28/eft-universe/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4647354" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4647354&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4647354&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4647354&amp;fromPlugin=false">Emotional Freedom Techniques (EFT) - The Skeptic's Dictionary - Skepdic.com</a><br>
+                <span class="address">skepdic.com/eft.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1669475" class="tag">EFT</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2923050" class="tag">EFT Debunked</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=6414">firebirdsfather</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.mediaite.com/tv/former-weather-channel-ceo-goes-off-on-cnn-hello-everybody-theres-no-global-warming/">Former Weather Channel CEO Goes off on CNN: &#8216;Hello, Everybody! There&#8217;s No Global Warming!&#8217; | Mediaite</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4646499&amp;fromPlugin=false -->
+            <span class="address">mediaite.com/tv/former-weather-channel-ceo-goes-off-on-cnn-hello-every..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4646499" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4646499&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4646499&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4646499&amp;fromPlugin=false">9. Climate Change - Meet the Scientists - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=qZzwRwFDXw0</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4705" class="tag">hoax</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5951" class="tag">Global Warming</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4646498" class="tag">Climate Deniers</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4646496" class="tag">potholer54</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4646497" class="tag">John Coleman</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=178830">anaker</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://jezebel.com/quitting-grooming-wont-get-women-anywhere-1650451729">Quitting Grooming Won&#39;t Get Women Anywhere</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4645905&amp;fromPlugin=false -->
+            <span class="address">jezebel.com/quitting-grooming-wont-get-women-anywhere-1650451729</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4645905" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4645905&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4645905&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4645905&amp;fromPlugin=false">A Response to Tracy Moore's Jezebel Article on Grooming - Cafe</a><br>
+                <span class="address">cafe.com/r/4886c71d-2e51-4e60-b255-7d1fc4875f80/1/a-gentle-rebuttal-to..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3982675" class="tag">women's issues</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1215" class="tag">Finance</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1164" class="tag">feminism</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.cafe.com/r/3dddde33-17bc-4061-85e5-e16b8d03b71e/1/dont-braid-your-daughters-hair">How Much More Expensive Are Girls Than Boys? - Cafe</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4645899&amp;fromPlugin=false -->
+            <span class="address">cafe.com/r/3dddde33-17bc-4061-85e5-e16b8d03b71e/1/dont-braid-your-daug..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4645899" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4645899&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4645899&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4645899&amp;fromPlugin=false">Quitting Grooming Won&#39;t Get Women Anywhere</a><br>
+                <span class="address">jezebel.com/quitting-grooming-wont-get-women-anywhere-1650451729</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=837" class="tag">Sexism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3982675" class="tag">women's issues</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1215" class="tag">Finance</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 04 Nov</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.latimes.com/local/california/la-me-pediatricians-vaccines-20141031-story.html#page=1">Doctors learn to push back, gently, against anti-vaccination movement - LA Times</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=4645122&amp;fromPlugin=false -->
+            <span class="address">latimes.com/local/california/la-me-pediatricians-vaccines-20141031-sto..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=4645122" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4645122&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=4645122&vote=-1">0</a></span>            0.0009
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=4645122&amp;fromPlugin=false">Rebuttal to Dr. Paul Offit(LA Times) -</a><br>
+                <span class="address">dinnerforthought.com/blog/rebuttal-to-dr-paul-offitla-times</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=103" class="tag">Vaccination</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=25" class="tag">Health</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=196364" class="tag">anti-vaxx</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 03 Nov</span>
+    </td>
+</tr>
+	</table>
+<div id="Pagination">		<a onclick="getContent('ajaxLinks', 'trending', 264, 25);" href="javascript:void(0);">&lt;&lt; Previous Page</a>
+		265
+	<a onclick="getContent('ajaxLinks', 'trending', 266, 25);" href="javascript:void(0);">Next Page &gt;&gt;</a>
+</div>

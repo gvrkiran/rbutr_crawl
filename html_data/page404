@@ -1,0 +1,621 @@
+<div id="RebuttalsContainerSorting">
+	<div>				<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 403, 25);">Previous</a>
+		<form method="get" action="WebsiteServlet">
+			<input type="hidden" name="requestType" value="browse">
+			<input type="hidden" name="linkSort" value="trending">
+			<input type="hidden" name="pageNumber" value="404">
+			<select name="numberPerPage" onchange="this.form.submit()">					<option value="10">10</option>
+									<option value="25" selected>25</option>
+									<option value="50">50</option>
+									<option value="100">100</option>
+							</select>
+		</form>		<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 405, 25);">Next</a>
+	</div>
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 1, 25);">Trending</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'popularity', 1, 25);">Popularity</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'date', 1, 25);">Date</a>
+</div>
+<table class="RebuttalsContainer"><tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.bbc.co.uk/programmes/b03ywhjs">BBC One - Panorama, The Great NHS Robbery</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2621919&amp;fromPlugin=false -->
+            <span class="address">bbc.co.uk/programmes/b03ywhjs</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2621919" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2621919&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2621919&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2621919&amp;fromPlugin=false">The NHS fraud story would be terrible, if it were true | Zoe Williams | Comment is free | The Guardian</a><br>
+                <span class="address">theguardian.com/commentisfree/2014/mar/25/nhs-fraud-story-terrible-if-..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1429820" class="tag">NHS</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10010" class="tag">Fraud</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2183" class="tag">Economics</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 27 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theguardian.com/society/2014/mar/24/nhs-fraud-health-service">NHS fraud could be as high as £5bn a year, says former health service official | Society | The Guardian</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2621917&amp;fromPlugin=false -->
+            <span class="address">theguardian.com/society/2014/mar/24/nhs-fraud-health-service</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2621917" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2621917&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2621917&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2621917&amp;fromPlugin=false">Is the NHS losing £5 billion a year to fraud? | Full Fact</a><br>
+                <span class="address">fullfact.org/health/fraud_cost_nhs_panorama-30819</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1429820" class="tag">NHS</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10010" class="tag">Fraud</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2183" class="tag">Economics</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 27 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.bbc.co.uk/programmes/b03ywhjs">BBC One - Panorama, The Great NHS Robbery</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2621915&amp;fromPlugin=false -->
+            <span class="address">bbc.co.uk/programmes/b03ywhjs</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2621915" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2621915&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2621915&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2621915&amp;fromPlugin=false">Is the NHS losing £5 billion a year to fraud? | Full Fact</a><br>
+                <span class="address">fullfact.org/health/fraud_cost_nhs_panorama-30819</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1429820" class="tag">NHS</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10010" class="tag">Fraud</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2183" class="tag">Economics</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 27 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theguardian.com/society/2014/mar/24/nhs-fraud-health-service">NHS fraud could be as high as £5bn a year, says former health service official | Society | The Guardian</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2621838&amp;fromPlugin=false -->
+            <span class="address">theguardian.com/society/2014/mar/24/nhs-fraud-health-service</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2621838" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2621838&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2621838&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2621838&amp;fromPlugin=false">The NHS fraud story would be terrible, if it were true | Zoe Williams | Comment is free | The Guardian</a><br>
+                <span class="address">theguardian.com/commentisfree/2014/mar/25/nhs-fraud-story-terrible-if-..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1429820" class="tag">NHS</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=10010" class="tag">Fraud</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=25" class="tag">Health</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2183" class="tag">Economics</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=30" class="tag">Politics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 27 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.come-and-hear.com/">Come and Hear ...</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2619370&amp;fromPlugin=false -->
+            <span class="address">come-and-hear.com/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2619370" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2619370&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2619370&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2619370&amp;fromPlugin=false">More on Glenn Beck's new favorite anti-Semitic author, Elizabeth Dilling | Blog | Media Matters for America</a><br>
+                <span class="address">mediamatters.org/blog/2010/06/04/more-on-glenn-becks-new-favorite-anti..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2619313">p_potto</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.come-and-hear.com/yebamoth/yebamoth_54.html">Babylonian Talmud: Yebamoth 54</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2619363&amp;fromPlugin=false -->
+            <span class="address">come-and-hear.com/yebamoth/yebamoth_54.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2619363" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2619363&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2619363&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2619363&amp;fromPlugin=false">More on Glenn Beck's new favorite anti-Semitic author, Elizabeth Dilling | Blog | Media Matters for America</a><br>
+                <span class="address">mediamatters.org/blog/2010/06/04/more-on-glenn-becks-new-favorite-anti..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2619313">p_potto</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.come-and-hear.com/dilling/chapt05.html#T321">Dilling: V. Talmudic Immorality, Asininity and Pornography: The Reprobate Mind</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2619341&amp;fromPlugin=false -->
+            <span class="address">come-and-hear.com/dilling/chapt05.html#T321</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2619341" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2619341&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2619341&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2619341&amp;fromPlugin=false">More on Glenn Beck's new favorite anti-Semitic author, Elizabeth Dilling | Blog | Media Matters for America</a><br>
+                <span class="address">mediamatters.org/blog/2010/06/04/more-on-glenn-becks-new-favorite-anti..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2619313">p_potto</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.yoli.com/alkalete-ph-balance/">Yoli, LLC. &raquo; Alkalete &#8211; PH Balance</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2618422&amp;fromPlugin=false -->
+            <span class="address">yoli.com/alkalete-ph-balance/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2618422" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2618422&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2618422&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2618422&amp;fromPlugin=false">Acid/Alkaline Theory of Disease Is Nonsense</a><br>
+                <span class="address">quackwatch.org/01QuackeryRelatedTopics/DSH/coral2.html</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1477849" class="tag">Alkaline Diet</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=238546" class="tag">Pyramid Scheme</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2618410" class="tag">yoli</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1214470">zhespelt</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.yoli.com/alkalete-ph-balance/">Yoli, LLC. &raquo; Alkalete &#8211; PH Balance</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2618411&amp;fromPlugin=false -->
+            <span class="address">yoli.com/alkalete-ph-balance/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2618411" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2618411&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2618411&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2618411&amp;fromPlugin=false">alkaline diet - The Skeptic's Dictionary</a><br>
+                <span class="address">skepdic.com/alkalinediet.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1477849" class="tag">Alkaline Diet</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=238546" class="tag">Pyramid Scheme</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2618410" class="tag">yoli</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1214470">zhespelt</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0301622605002095">Dairy herd health, impedance on six acupuncture points and immune response factors in milk: A pilot study</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2616671&amp;fromPlugin=false -->
+            <span class="address">sciencedirect.com/science/article/pii/S0301622605002095</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2616671" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2616671&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2616671&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2616671&amp;fromPlugin=false">Veterinary Acupuncture and the Soviet Space Program &#187; Pepijn van Erp</a><br>
+                <span class="address">pepijnvanerp.nl/articles/veterinary-acupuncture-and-the-soviet-space-p..</span>
+
+        <div class="comment">
+            &ldquo;Study commissioned by the firm who supplied the device used for the electroacupuncture, which was not developed by the Soviet space program as stated in the article&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=139265" class="tag">Conflict of Interest</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2616666" class="tag">electroacupuncture</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2591" class="tag">pseudoscience</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2616667" class="tag">space technology</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2463">pjvanerp</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.mdpi.com/2076-2615/2/3/415">Animals | Free Full-Text | Effect of Time (Within and Between Days), and Dairy Production Factors on the Impedance Value at 24 Acupuncture Points in Dairy Cows</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2616668&amp;fromPlugin=false -->
+            <span class="address">mdpi.com/2076-2615/2/3/415</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2616668" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2616668&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2616668&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2616668&amp;fromPlugin=false">Veterinary Acupuncture and the Soviet Space Program &#187; Pepijn van Erp</a><br>
+                <span class="address">pepijnvanerp.nl/articles/veterinary-acupuncture-and-the-soviet-space-p..</span>
+
+        <div class="comment">
+            &ldquo;Study commissioned by the firm which supplied the device used for the electroacupuncture, which was not developed by the Soviet space program as stated in the article&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=139265" class="tag">Conflict of Interest</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2616666" class="tag">electroacupuncture</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2591" class="tag">pseudoscience</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2616667" class="tag">space technology</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2463">pjvanerp</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.homoeopathie-welt.ch/">Startseite - www.homoeopathie-welt.ch</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2615759&amp;fromPlugin=false -->
+            <span class="address">homoeopathie-welt.ch/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2615759" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615759&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615759&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2615759&amp;fromPlugin=false">Versuchter &#8220;Massenselbstmord&#8221; ist gescheitert: Homöopathie wirkt immer noch nicht &#8211; Astrodicticum Simplex</a><br>
+                <span class="address">scienceblogs.de/astrodicticum-simplex/2010/01/30/versuchter-massenselb..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=150283" class="tag">homeopathy pseudoscience</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2565257">Reto Hegi</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.homoeopathie-welt.ch/">Startseite - www.homoeopathie-welt.ch</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2615757&amp;fromPlugin=false -->
+            <span class="address">homoeopathie-welt.ch/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2615757" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615757&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615757&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2615757&amp;fromPlugin=false">Homeopathy: there's nothing in it | The 10:23 Campaign | #ten23</a><br>
+                <span class="address">1023.org.uk/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=150283" class="tag">homeopathy pseudoscience</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2565257">Reto Hegi</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.hvs.ch/">Willkommen auf der Startseite</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2615703&amp;fromPlugin=false -->
+            <span class="address">hvs.ch/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2615703" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615703&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615703&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2615703&amp;fromPlugin=false">Versuchter &#8220;Massenselbstmord&#8221; ist gescheitert: Homöopathie wirkt immer noch nicht &#8211; Astrodicticum Simplex</a><br>
+                <span class="address">scienceblogs.de/astrodicticum-simplex/2010/01/30/versuchter-massenselb..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=150283" class="tag">homeopathy pseudoscience</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2565257">Reto Hegi</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.hvs.ch/">Willkommen auf der Startseite</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2615700&amp;fromPlugin=false -->
+            <span class="address">hvs.ch/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2615700" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615700&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615700&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2615700&amp;fromPlugin=false">Homeopathy: there's nothing in it | The 10:23 Campaign | #ten23</a><br>
+                <span class="address">1023.org.uk/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=150283" class="tag">homeopathy pseudoscience</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2565257">Reto Hegi</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.esoterikforum.de/threads/9879-wie-ist-hellsehen-moeglich?=46//www.esoterikforum.dethreads/9879-wie-ist-hellsehen-moeglich">Wie ist hellsehen möglich? - Esoterik: Esoterikforum.de</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2615616&amp;fromPlugin=false -->
+            <span class="address">esoterikforum.de/threads/9879-wie-ist-hellsehen-moeglich?=46//www.esot..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2615616" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615616&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615616&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2615616&amp;fromPlugin=false">Hellsehen 2.0: Es ist ganz einfach &#8211; Astrodicticum Simplex</a><br>
+                <span class="address">scienceblogs.de/astrodicticum-simplex/2012/09/29/hellsehen-2-0-es-ist-..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=370068" class="tag">psychic fraud</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2565257">Reto Hegi</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.esoterikforum.de/threads/9879-wie-ist-hellsehen-moeglich?=46//www.esoterikforum.dethreads/9879-wie-ist-hellsehen-moeglich">Wie ist hellsehen möglich? - Esoterik: Esoterikforum.de</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2615606&amp;fromPlugin=false -->
+            <span class="address">esoterikforum.de/threads/9879-wie-ist-hellsehen-moeglich?=46//www.esot..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2615606" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615606&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615606&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2615606&amp;fromPlugin=false">Cold Reading – Wikipedia</a><br>
+                <span class="address">de.wikipedia.org/wiki/Cold_Reading</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=370068" class="tag">psychic fraud</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2565257">Reto Hegi</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.shiva.tv/">Home - Mike Shiva</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2615583&amp;fromPlugin=false -->
+            <span class="address">shiva.tv/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2615583" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615583&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615583&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2615583&amp;fromPlugin=false">Hellsehen 2.0: Es ist ganz einfach &#8211; Astrodicticum Simplex</a><br>
+                <span class="address">scienceblogs.de/astrodicticum-simplex/2012/09/29/hellsehen-2-0-es-ist-..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2565257">Reto Hegi</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.shiva.tv/">Home - Mike Shiva</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2615576&amp;fromPlugin=false -->
+            <span class="address">shiva.tv/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2615576" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615576&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2615576&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2615576&amp;fromPlugin=false">Cold Reading – Wikipedia</a><br>
+                <span class="address">de.wikipedia.org/wiki/Cold_Reading</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=370068" class="tag">psychic fraud</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2565257">Reto Hegi</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://fivethirtyeight.com/datalab/following-up-on-disasters-and-climate-change/">Following Up on Disasters And Climate Change | FiveThirtyEight</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2611990&amp;fromPlugin=false -->
+            <span class="address">fivethirtyeight.com/datalab/following-up-on-disasters-and-climate-chan..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2611990" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2611990&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2611990&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2611990&amp;fromPlugin=false">Cherry picked and misrepresented climate science undermines FiveThirtyEight brand</a><br>
+                <span class="address">skepticalscience.com/fivethirtyeight-pielke-downplay-climate-damages.h..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2290490" class="tag">Disasters</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=315" class="tag">Climate Change</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2183" class="tag">Economics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://fivethirtyeight.com/features/disasters-cost-more-than-ever-but-not-because-of-climate-change/">FiveThirtyEight | Disasters Cost More Than Ever — But Not Because of Climate Change</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2611987&amp;fromPlugin=false -->
+            <span class="address">fivethirtyeight.com/features/disasters-cost-more-than-ever-but-not-bec..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2611987" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2611987&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2611987&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2611987&amp;fromPlugin=false">Cherry picked and misrepresented climate science undermines FiveThirtyEight brand</a><br>
+                <span class="address">skepticalscience.com/fivethirtyeight-pielke-downplay-climate-damages.h..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2290490" class="tag">Disasters</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=315" class="tag">Climate Change</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2183" class="tag">Economics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.forbes.com/sites/jamestaylor/2011/11/23/climategate-2-0-new-e-mails-rock-the-global-warming-debate/">Climategate 2.0: New E-Mails Rock The Global Warming Debate</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2611658&amp;fromPlugin=false -->
+            <span class="address">forbes.com/sites/jamestaylor/2011/11/23/climategate-2-0-new-e-mails-ro..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2611658" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2611658&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2611658&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2611658&amp;fromPlugin=false">22 -- Climategate mark 2 -- the quotes and the context - YouTube</a><br>
+                <span class="address">youtube.com/watch?v=4OB2prBtVFo</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=101026" class="tag">Climategate</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=315" class="tag">Climate Change</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1477547">lystring</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://naturalhealthwarriors.com/natural-cancer-killer-10000-times-stronger-than-chemo/">Natural Cancer Killer 10,000 Times Stronger than Chemo! | Natural Health Warriors</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2609318&amp;fromPlugin=false -->
+            <span class="address">naturalhealthwarriors.com/natural-cancer-killer-10000-times-stronger-t..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2609318" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2609318&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2609318&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2609318&amp;fromPlugin=false">Is There a Conspiracy to Suppress Cancer Cures?</a><br>
+                <span class="address">quackwatch.com/01QuackeryRelatedTopics/Cancer/conspiracy.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=147991" class="tag">alternative cancer treatment</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2459376">skazisux</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://naturalhealthwarriors.com/natural-cancer-killer-10000-times-stronger-than-chemo/">Natural Cancer Killer 10,000 Times Stronger than Chemo! | Natural Health Warriors</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2609240&amp;fromPlugin=false -->
+            <span class="address">naturalhealthwarriors.com/natural-cancer-killer-10000-times-stronger-t..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2609240" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2609240&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2609240&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2609240&amp;fromPlugin=false">Miracle cancer cures? Ask for evidence - Cancer Research UK - Science Update blog</a><br>
+                <span class="address">scienceblog.cancerresearchuk.org/2013/09/13/miracle-cancer-cures-ask-f..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=147991" class="tag">alternative cancer treatment</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2459376">skazisux</a> 26 Mar</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://naturalhealthwarriors.com/natural-cancer-killer-10000-times-stronger-than-chemo/">Natural Cancer Killer 10,000 Times Stronger than Chemo! | Natural Health Warriors</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=2609234&amp;fromPlugin=false -->
+            <span class="address">naturalhealthwarriors.com/natural-cancer-killer-10000-times-stronger-t..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=2609234" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2609234&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=2609234&vote=-1">0</a></span>            0.0006
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=2609234&amp;fromPlugin=false">Alternative cancer treatment claims in the media are damaging and misleading - Cancer Research UK - Science blog</a><br>
+                <span class="address">scienceblog.cancerresearchuk.org/2012/12/07/alternative-cancer-treatme..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=147991" class="tag">alternative cancer treatment</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2459376">skazisux</a> 26 Mar</span>
+    </td>
+</tr>
+	</table>
+<div id="Pagination">		<a onclick="getContent('ajaxLinks', 'trending', 403, 25);" href="javascript:void(0);">&lt;&lt; Previous Page</a>
+		404
+	<a onclick="getContent('ajaxLinks', 'trending', 405, 25);" href="javascript:void(0);">Next Page &gt;&gt;</a>
+</div>

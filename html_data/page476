@@ -1,0 +1,679 @@
+<div id="RebuttalsContainerSorting">
+	<div>				<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 475, 25);">Previous</a>
+		<form method="get" action="WebsiteServlet">
+			<input type="hidden" name="requestType" value="browse">
+			<input type="hidden" name="linkSort" value="trending">
+			<input type="hidden" name="pageNumber" value="476">
+			<select name="numberPerPage" onchange="this.form.submit()">					<option value="10">10</option>
+									<option value="25" selected>25</option>
+									<option value="50">50</option>
+									<option value="100">100</option>
+							</select>
+		</form>		<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 477, 25);">Next</a>
+	</div>
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 1, 25);">Trending</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'popularity', 1, 25);">Popularity</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'date', 1, 25);">Date</a>
+</div>
+<table class="RebuttalsContainer"><tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.telegraph.co.uk/science/10522047/Wifi-could-be-killing-plants-schoolgirls-claim.html">Wifi could be killing plants, schoolgirls claim - Telegraph</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=906318&amp;fromPlugin=false -->
+            <span class="address">telegraph.co.uk/science/10522047/Wifi-could-be-killing-plants-schoolgi..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=906318" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=906318&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=906318&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=906318&amp;fromPlugin=false">Danish School Experiment with WiFi Routers and Garden Cress, Good Example of Bad Science » Pepijn van Erp</a><br>
+                <span class="address">pepijnvanerp.nl/2013/05/danish-school-experiment-with-wifi-routers-and..</span>
+
+        <div class="comment">
+            &ldquo;The experiment was biased and faulty in design, the scientists who are enthusiastic about it are all well known EM radiation fear mongers&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2591" class="tag">pseudoscience</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4092" class="tag">Biology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=-1" class="tag">Wi Fi</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2463">pjvanerp</a> 17 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.iol.co.za/scitech/technology/telecoms/how-wifi-could-be-killing-your-plants-1.1623400">No title : iol.co.za/scitech/technology/telecoms/how-wifi-could-be-killing-your-p..</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=906237&amp;fromPlugin=false -->
+            <span class="address">iol.co.za/scitech/technology/telecoms/how-wifi-could-be-killing-your-p..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=906237" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=906237&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=906237&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=906237&amp;fromPlugin=false">Danish School Experiment with WiFi Routers and Garden Cress, Good Example of Bad Science » Pepijn van Erp</a><br>
+                <span class="address">pepijnvanerp.nl/2013/05/danish-school-experiment-with-wifi-routers-and..</span>
+
+        <div class="comment">
+            &ldquo;The experiment was biased and faulty in design, the scientists who are enthusiastic about it are all well known EM radiation fear mongers&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2591" class="tag">pseudoscience</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4092" class="tag">Biology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=-1" class="tag">Wi Fi</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2463">pjvanerp</a> 17 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.telegraph.co.uk/science/10522047/Wifi-could-be-killing-plants-a-school-experiment-found.html">Wifi could be killing plants, a school experiment found - Telegraph</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=905393&amp;fromPlugin=false -->
+            <span class="address">telegraph.co.uk/science/10522047/Wifi-could-be-killing-plants-a-school..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=905393" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=905393&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=905393&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=905393&amp;fromPlugin=false">Danish School Experiment with WiFi Routers and Garden Cress, Good Example of Bad Science » Pepijn van Erp</a><br>
+                <span class="address">pepijnvanerp.nl/2013/05/danish-school-experiment-with-wifi-routers-and..</span>
+
+        <div class="comment">
+            &ldquo;The experiment was biased and faulty in design, the scientists who are enthusiastic about it are all well known EM radiation fear mongers&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2591" class="tag">pseudoscience</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4092" class="tag">Biology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=-1" class="tag">Wi Fi</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2463">pjvanerp</a> 17 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.dailymail.co.uk/sciencetech/article-2524598/Experiment-finds-plants-die-placed-internet-Wi-Fi-routers.html">Experiment finds that plants die when placed next to internet Wi-Fi routers | Mail Online</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=905387&amp;fromPlugin=false -->
+            <span class="address">dailymail.co.uk/sciencetech/article-2524598/Experiment-finds-plants-di..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=905387" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=905387&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=905387&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=905387&amp;fromPlugin=false">Danish School Experiment with WiFi Routers and Garden Cress, Good Example of Bad Science » Pepijn van Erp</a><br>
+                <span class="address">pepijnvanerp.nl/2013/05/danish-school-experiment-with-wifi-routers-and..</span>
+
+        <div class="comment">
+            &ldquo;The experiment was biased and faulty in design, the scientists who are enthusiastic about it are all well known EM radiation fear mongers&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2591" class="tag">pseudoscience</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4092" class="tag">Biology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=-1" class="tag">Wi Fi</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2463">pjvanerp</a> 17 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://frequencyapps.com/allergytest">Allergy Testing | FrequencyApps.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=900188&amp;fromPlugin=false -->
+            <span class="address">frequencyapps.com/allergytest</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=900188" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=900188&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=900188&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=900188&amp;fromPlugin=false">Multiple chemical sensitivity - Wikipedia, the free encyclopedia</a><br>
+                <span class="address">en.wikipedia.org/wiki/Multiple_chemical_sensitivity</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=900184" class="tag">msa</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1325" class="tag">Homeopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=899674" class="tag">Allergy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=899628">Kurt van Ryswyk</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://frequencyapps.com/allergytest">Allergy Testing | FrequencyApps.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=900185&amp;fromPlugin=false -->
+            <span class="address">frequencyapps.com/allergytest</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=900185" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=900185&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=900185&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=900185&amp;fromPlugin=false">Homeopathy - Wikipedia, the free encyclopedia</a><br>
+                <span class="address">en.wikipedia.org/wiki/Homeopathy</span>
+
+        <div class="comment">
+            &ldquo;Offered debunked homeopathy to treat chemical sensitivies diagnosed without exposure to the irritants. Generally invalid&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=900184" class="tag">msa</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1325" class="tag">Homeopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=899674" class="tag">Allergy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5837" class="tag">food</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=899628">Kurt van Ryswyk</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://plateroticenter.com/allergy_testing">Allergy Testing</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=900064&amp;fromPlugin=false -->
+            <span class="address">plateroticenter.com/allergy_testing</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=900064" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=900064&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=900064&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=900064&amp;fromPlugin=false">Electrodermal Testing Part I: Fooling Patients with a Computerized Magic Eight Ball &laquo; Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/13926/</span>
+
+        <div class="comment">
+            &ldquo;Explains exactly how electrodermal testing is used to wrongly diagnose patients&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=899628">Kurt van Ryswyk</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://plateroticenter.com/allergy_testing">Allergy Testing</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=899676&amp;fromPlugin=false -->
+            <span class="address">plateroticenter.com/allergy_testing</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=899676" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=899676&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=899676&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=899676&amp;fromPlugin=false">NeuroLogica Blog &raquo; Vegatest &#8211; High Tech Pseudoscience</a><br>
+                <span class="address">theness.com/neurologicablog/index.php/vegatest-high-tech-pseudoscience..</span>
+
+        <div class="comment">
+            &ldquo;Science is used to take down claims for dodgy allergy test&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=899674" class="tag">Allergy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=899675" class="tag">Electrodermal test</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=899628">Kurt van Ryswyk</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://articles.mercola.com/sites/articles/archive/2011/08/14/beautiful-truth-about-outlawed-cancer-treatment.aspx">Gerson Therapy: A Powerful Natural Cancer Treatment</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894370&amp;fromPlugin=false -->
+            <span class="address">articles.mercola.com/sites/articles/archive/2011/08/14/beautiful-truth..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894370" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894370&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894370&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894370&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://movies.nytimes.com/2008/11/14/movies/14trut.html">303 See Other</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894368&amp;fromPlugin=false -->
+            <span class="address">movies.nytimes.com/2008/11/14/movies/14trut.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894368" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894368&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894368&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894368&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.youtube.com/watch?v=5ZmV8b1wr10">The Beautiful Truth Trailer - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894366&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=5ZmV8b1wr10</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894366" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894366&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894366&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894366&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.facebook.com/pages/THE-BEAUTIFUL-TRUTH-THE-MOVIE-/125327507492918">No title : facebook.com/pages/THE-BEAUTIFUL-TRUTH-THE-MOVIE-/125327507492918</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894364&amp;fromPlugin=false -->
+            <span class="address">facebook.com/pages/THE-BEAUTIFUL-TRUTH-THE-MOVIE-/125327507492918</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894364" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894364&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894364&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894364&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://topdocumentaryfilms.com/beautiful-truth/">The Beautiful Truth | Watch Free Documentary Online</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894362&amp;fromPlugin=false -->
+            <span class="address">topdocumentaryfilms.com/beautiful-truth/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894362" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894362&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894362&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894362&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.amazon.com/The-Beautiful-Truth-Worlds-Simplest/dp/B001J66JQ8">No title : amazon.com/The-Beautiful-Truth-Worlds-Simplest/dp/B001J66JQ8</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894360&amp;fromPlugin=false -->
+            <span class="address">amazon.com/The-Beautiful-Truth-Worlds-Simplest/dp/B001J66JQ8</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894360" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894360&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894360&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894360&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.filmedocumentare.com/cel-mai-simplu-tratament-pentru-cancer/">Cel mai simplu tratament pentru cancer</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894358&amp;fromPlugin=false -->
+            <span class="address">filmedocumentare.com/cel-mai-simplu-tratament-pentru-cancer/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894358" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894358&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894358&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894358&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.gersonmedia.com/DVDs.html">Gerson Therapy DVD's</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894356&amp;fromPlugin=false -->
+            <span class="address">gersonmedia.com/DVDs.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894356" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894356&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894356&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894356&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.imdb.com/title/tt1288553/combined">The Beautiful Truth (2008)</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894354&amp;fromPlugin=false -->
+            <span class="address">imdb.com/title/tt1288553/combined</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894354" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894354&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894354&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894354&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.gersonmedia.com/TheBeautifulTruth.html">The Beautiful Truth</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894352&amp;fromPlugin=false -->
+            <span class="address">gersonmedia.com/TheBeautifulTruth.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894352" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894352&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894352&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894352&amp;fromPlugin=false">Stupidity caught on celluloid: The Beautiful Truth &#8211; SciencePunk</a><br>
+                <span class="address">scienceblogs.com/sciencepunk/2009/01/27/stupidity-caught-on-celluloid/</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://articles.mercola.com/sites/articles/archive/2011/08/14/beautiful-truth-about-outlawed-cancer-treatment.aspx">Gerson Therapy: A Powerful Natural Cancer Treatment</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894349&amp;fromPlugin=false -->
+            <span class="address">articles.mercola.com/sites/articles/archive/2011/08/14/beautiful-truth..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894349" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894349&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894349&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894349&amp;fromPlugin=false">The (Not-So-)Beautiful (Un)Truth about the Gerson protocol and cancer quackery &laquo; Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/the-not-so-beautiful-untruth-about-the-gerson..</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://movies.nytimes.com/2008/11/14/movies/14trut.html">303 See Other</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894346&amp;fromPlugin=false -->
+            <span class="address">movies.nytimes.com/2008/11/14/movies/14trut.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894346" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894346&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894346&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894346&amp;fromPlugin=false">The (Not-So-)Beautiful (Un)Truth about the Gerson protocol and cancer quackery &laquo; Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/the-not-so-beautiful-untruth-about-the-gerson..</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.youtube.com/watch?v=5ZmV8b1wr10">The Beautiful Truth Trailer - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894343&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?v=5ZmV8b1wr10</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894343" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894343&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894343&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894343&amp;fromPlugin=false">The (Not-So-)Beautiful (Un)Truth about the Gerson protocol and cancer quackery &laquo; Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/the-not-so-beautiful-untruth-about-the-gerson..</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.facebook.com/pages/THE-BEAUTIFUL-TRUTH-THE-MOVIE-/125327507492918">No title : facebook.com/pages/THE-BEAUTIFUL-TRUTH-THE-MOVIE-/125327507492918</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894340&amp;fromPlugin=false -->
+            <span class="address">facebook.com/pages/THE-BEAUTIFUL-TRUTH-THE-MOVIE-/125327507492918</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894340" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894340&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894340&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894340&amp;fromPlugin=false">The (Not-So-)Beautiful (Un)Truth about the Gerson protocol and cancer quackery &laquo; Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/the-not-so-beautiful-untruth-about-the-gerson..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.amazon.com/The-Beautiful-Truth-Worlds-Simplest/dp/B001J66JQ8">No title : amazon.com/The-Beautiful-Truth-Worlds-Simplest/dp/B001J66JQ8</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894334&amp;fromPlugin=false -->
+            <span class="address">amazon.com/The-Beautiful-Truth-Worlds-Simplest/dp/B001J66JQ8</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894334" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894334&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894334&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894334&amp;fromPlugin=false">The (Not-So-)Beautiful (Un)Truth about the Gerson protocol and cancer quackery &laquo; Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/the-not-so-beautiful-untruth-about-the-gerson..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.filmedocumentare.com/cel-mai-simplu-tratament-pentru-cancer/">Cel mai simplu tratament pentru cancer</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894331&amp;fromPlugin=false -->
+            <span class="address">filmedocumentare.com/cel-mai-simplu-tratament-pentru-cancer/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894331" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894331&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894331&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894331&amp;fromPlugin=false">The (Not-So-)Beautiful (Un)Truth about the Gerson protocol and cancer quackery &laquo; Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/the-not-so-beautiful-untruth-about-the-gerson..</span>
+
+        <div class="comment">
+            &ldquo;<!-- Value is null: $link.Comment at /home/jboss/projects/rbutr/src/java/com/rbutr/webmacro/showLink.wm:206.95 -->&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.gersonmedia.com/DVDs.html">Gerson Therapy DVD's</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=894328&amp;fromPlugin=false -->
+            <span class="address">gersonmedia.com/DVDs.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=894328" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894328&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=894328&vote=-1">0</a></span>            0.0005
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=894328&amp;fromPlugin=false">The (Not-So-)Beautiful (Un)Truth about the Gerson protocol and cancer quackery &laquo; Science-Based Medicine</a><br>
+                <span class="address">sciencebasedmedicine.org/the-not-so-beautiful-untruth-about-the-gerson..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=617841" class="tag">cam</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=894321" class="tag">Gerson</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=136737" class="tag">Documentary</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=74249" class="tag">Quackery</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=7210">krrypton</a> 16 Dec</span>
+    </td>
+</tr>
+	</table>
+<div id="Pagination">		<a onclick="getContent('ajaxLinks', 'trending', 475, 25);" href="javascript:void(0);">&lt;&lt; Previous Page</a>
+		476
+	<a onclick="getContent('ajaxLinks', 'trending', 477, 25);" href="javascript:void(0);">Next Page &gt;&gt;</a>
+</div>

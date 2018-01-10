@@ -1,0 +1,668 @@
+<div id="RebuttalsContainerSorting">
+	<div>				<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 173, 25);">Previous</a>
+		<form method="get" action="WebsiteServlet">
+			<input type="hidden" name="requestType" value="browse">
+			<input type="hidden" name="linkSort" value="trending">
+			<input type="hidden" name="pageNumber" value="174">
+			<select name="numberPerPage" onchange="this.form.submit()">					<option value="10">10</option>
+									<option value="25" selected>25</option>
+									<option value="50">50</option>
+									<option value="100">100</option>
+							</select>
+		</form>		<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 175, 25);">Next</a>
+	</div>
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 1, 25);">Trending</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'popularity', 1, 25);">Popularity</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'date', 1, 25);">Date</a>
+</div>
+<table class="RebuttalsContainer"><tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://plato.stanford.edu/entries/common-knowledge/">Common Knowledge (Stanford Encyclopedia of Philosophy)</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872578&amp;fromPlugin=false -->
+            <span class="address">plato.stanford.edu/entries/common-knowledge/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872578" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872578&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872578&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872578&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2243885" class="tag">common knowledge</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://henryaquino.com/watch-can-you-solve-this-confusing-green-eyed-logic-puzzle/">Watch: Can You Solve This Confusing Green-Eyed Logic Puzzle? | Henry Aquino</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872575&amp;fromPlugin=false -->
+            <span class="address">henryaquino.com/watch-can-you-solve-this-confusing-green-eyed-logic-pu..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872575" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872575&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872575&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872575&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2243885" class="tag">common knowledge</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.thescienceforum.com/mathematics/6536-hardest-logic-puzzle-world.html">The hardest logic puzzle in the world</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872572&amp;fromPlugin=false -->
+            <span class="address">thescienceforum.com/mathematics/6536-hardest-logic-puzzle-world.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872572" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872572&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872572&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872572&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2243885" class="tag">common knowledge</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.sciencedump.com/content/are-you-smart-enough-solve-famously-difficult-puzzle">Are you smart enough to solve this famously difficult puzzle? | Sciencedump</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872422&amp;fromPlugin=false -->
+            <span class="address">sciencedump.com/content/are-you-smart-enough-solve-famously-difficult-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872422" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872422&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872422&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872422&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2243885" class="tag">common knowledge</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://puzzling.stackexchange.com/questions/236/in-the-100-blue-eyes-problem-why-is-the-oracle-necessary">logic puzzle - In the 100 blue eyes problem - why is the oracle necessary? - Puzzling Stack Exchange</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872419&amp;fromPlugin=false -->
+            <span class="address">puzzling.stackexchange.com/questions/236/in-the-100-blue-eyes-problem-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872419" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872419&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872419&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872419&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2243885" class="tag">common knowledge</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://designtaxi.com/news/376925/Watch-Can-You-Solve-This-Confusing-Green-Eyed-Logic-Puzzle/">Watch: Can You Solve This Confusing Green-Eyed Logic Puzzle? - DesignTAXI.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872416&amp;fromPlugin=false -->
+            <span class="address">designtaxi.com/news/376925/Watch-Can-You-Solve-This-Confusing-Green-Ey..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872416" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872416&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872416&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872416&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2243885" class="tag">common knowledge</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://boingboing.net/2015/06/18/the-famously-difficult-green-e.html">The famously difficult green-eyed logic puzzle / Boing Boing</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872413&amp;fromPlugin=false -->
+            <span class="address">boingboing.net/2015/06/18/the-famously-difficult-green-e.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872413" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872413&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872413&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872413&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2243885" class="tag">common knowledge</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://math.stackexchange.com/questions/961133/probabalistic-proof-of-green-eyed-dragons-logic-puzzle">probability - Probabalistic proof of green-eyed dragons logic puzzle - Mathematics Stack Exchange</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872369&amp;fromPlugin=false -->
+            <span class="address">math.stackexchange.com/questions/961133/probabalistic-proof-of-green-e..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872369" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872369&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872369&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872369&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;They get the answer to the logic puzzle wrong and this article corrects the error&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5872361" class="tag">xkcd</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5872362" class="tag">green eyed dragons</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.quora.com/How-can-the-hundred-green-eyed-dragon-puzzle-be-solved">How can the hundred green eyed dragon puzzle be solved? - Quora</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872366&amp;fromPlugin=false -->
+            <span class="address">quora.com/How-can-the-hundred-green-eyed-dragon-puzzle-be-solved</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872366" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872366&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872366&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872366&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;They get the answer to the logic puzzle wrong and this article corrects the error&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5872361" class="tag">xkcd</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5872362" class="tag">green eyed dragons</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://io9.com/can-you-solve-the-hardest-logic-puzzle-in-the-world-1642492269">Can You Solve &#39;The Hardest Logic Puzzle In The World&#39;?</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872363&amp;fromPlugin=false -->
+            <span class="address">io9.com/can-you-solve-the-hardest-logic-puzzle-in-the-world-1642492269</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872363" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872363&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872363&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872363&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;They get the answer to the logic puzzle wrong and this article corrects the error&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5872361" class="tag">xkcd</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5872362" class="tag">green eyed dragons</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.youtube.com/watch?t=213&v=98TQv5IAtY8">The famously difficult green-eyed logic puzzle - Alex Gendler - YouTube</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872357&amp;fromPlugin=false -->
+            <span class="address">youtube.com/watch?t=213&v=98TQv5IAtY8</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872357" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872357&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872357&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872357&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://www.physics.harvard.edu/uploads/files/undergrad/probweek/sol2.pdf">No title : physics.harvard.edu/uploads/files/undergrad/probweek/sol2.pdf</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872352&amp;fromPlugin=false -->
+            <span class="address">physics.harvard.edu/uploads/files/undergrad/probweek/sol2.pdf</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872352" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872352&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872352&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872352&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://xkcd.com/solution.html">Blue Eyes - The Hardest Logic Puzzle in the World - Solution</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872347&amp;fromPlugin=false -->
+            <span class="address">xkcd.com/solution.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872347" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872347&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872347&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872347&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="https://en.wikipedia.org/wiki/Common_knowledge_(logic)">Common knowledge (logic) - Wikipedia, the free encyclopedia</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5872341&amp;fromPlugin=false -->
+            <span class="address">en.wikipedia.org/wiki/Common_knowledge_(logic)</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5872341" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872341&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5872341&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5872341&amp;fromPlugin=false">The correct answer to xkcd&#039;s Hardest Logic Puzzle in the World - Incredulous</a><br>
+                <span class="address">skepticink.com/incredulous/2015/09/18/the-correct-answer-to-xkcds-hard..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3796289" class="tag">Logic</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=4404052">Ed Clint</a> 19 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.cancercenter.com/">CTCA Cancer Treatment Centers & Hospitals - Integrative Cancer Care
+
+</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5871395&amp;fromPlugin=false -->
+            <span class="address">cancercenter.com/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5871395" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871395&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871395&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5871395&amp;fromPlugin=false">Naturopathic cancer treatments versus reality â Respectful Insolence</a><br>
+                <span class="address">scienceblogs.com/insolence/2012/08/14/naturopathic-cancer-treatments-v..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871381" class="tag">cancer treatment centers of america</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871380" class="tag">CTCA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1325" class="tag">Homeopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871382" class="tag">herbs</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=389154" class="tag">naturopathy</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1899634">drmagnumwolf</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.cancercenter.com/treatments/">Explore Cancer Treatments Available at CTCA | CTCA</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5871393&amp;fromPlugin=false -->
+            <span class="address">cancercenter.com/treatments/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5871393" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871393&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871393&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5871393&amp;fromPlugin=false">Naturopathic cancer treatments versus reality â Respectful Insolence</a><br>
+                <span class="address">scienceblogs.com/insolence/2012/08/14/naturopathic-cancer-treatments-v..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871381" class="tag">cancer treatment centers of america</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871380" class="tag">CTCA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1325" class="tag">Homeopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871382" class="tag">herbs</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=389154" class="tag">naturopathy</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1899634">drmagnumwolf</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.cancercenter.com/treatments/naturopathic-medicine/">Naturopathic Medicine for Cancer Treatment | CTCA
+
+</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5871391&amp;fromPlugin=false -->
+            <span class="address">cancercenter.com/treatments/naturopathic-medicine/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5871391" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871391&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871391&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5871391&amp;fromPlugin=false">Naturopathic cancer treatments versus reality â Respectful Insolence</a><br>
+                <span class="address">scienceblogs.com/insolence/2012/08/14/naturopathic-cancer-treatments-v..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871381" class="tag">cancer treatment centers of america</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871380" class="tag">CTCA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1325" class="tag">Homeopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871382" class="tag">herbs</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=389154" class="tag">naturopathy</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1899634">drmagnumwolf</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.cancercenter.com/">CTCA Cancer Treatment Centers & Hospitals - Integrative Cancer Care
+
+</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5871388&amp;fromPlugin=false -->
+            <span class="address">cancercenter.com/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5871388" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871388&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871388&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5871388&amp;fromPlugin=false">Making a Profit from Offering Ineffective Therapies to Cancer Patients - Forbes</a><br>
+                <span class="address">forbes.com/sites/stevensalzberg/2012/12/31/making-a-profit-from-offeri..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871381" class="tag">cancer treatment centers of america</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871380" class="tag">CTCA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1325" class="tag">Homeopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871382" class="tag">herbs</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=389154" class="tag">naturopathy</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1899634">drmagnumwolf</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.cancercenter.com/treatments/">Explore Cancer Treatments Available at CTCA | CTCA</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5871386&amp;fromPlugin=false -->
+            <span class="address">cancercenter.com/treatments/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5871386" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871386&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871386&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5871386&amp;fromPlugin=false">Making a Profit from Offering Ineffective Therapies to Cancer Patients - Forbes</a><br>
+                <span class="address">forbes.com/sites/stevensalzberg/2012/12/31/making-a-profit-from-offeri..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871381" class="tag">cancer treatment centers of america</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871380" class="tag">CTCA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1325" class="tag">Homeopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871382" class="tag">herbs</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=389154" class="tag">naturopathy</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1899634">drmagnumwolf</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.cancercenter.com/treatments/naturopathic-medicine/">Naturopathic Medicine for Cancer Treatment | CTCA
+
+</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5871383&amp;fromPlugin=false -->
+            <span class="address">cancercenter.com/treatments/naturopathic-medicine/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5871383" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871383&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5871383&vote=-1">0</a></span>            0.0021
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5871383&amp;fromPlugin=false">Making a Profit from Offering Ineffective Therapies to Cancer Patients - Forbes</a><br>
+                <span class="address">forbes.com/sites/stevensalzberg/2012/12/31/making-a-profit-from-offeri..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=772" class="tag">Cancer</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871381" class="tag">cancer treatment centers of america</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871380" class="tag">CTCA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1325" class="tag">Homeopathy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5871382" class="tag">herbs</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=389154" class="tag">naturopathy</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1899634">drmagnumwolf</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.valeursactuelles.com/le-pere-daylan-etait-il-un-passeur-55576">No title : valeursactuelles.com/le-pere-daylan-etait-il-un-passeur-55576</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5870483&amp;fromPlugin=false -->
+            <span class="address">valeursactuelles.com/le-pere-daylan-etait-il-un-passeur-55576</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5870483" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5870483&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5870483&vote=-1">0</a></span>            0.0020
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5870483&amp;fromPlugin=false">Le pÃ¨re d'Aylan passeurÂ ? Â«Valeurs actuellesÂ» sort l'indice qui fait pschitt - LibÃ©ration</a><br>
+                <span class="address">liberation.fr/desintox/2015/09/17/le-pere-d-aylan-passeur-valeurs-actu..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1332230" class="tag">Syria</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=14148" class="tag">Refugee</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5859774">Fenn</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.valeursactuelles.com/monde/le-pere-daylan-kurdi-etait-il-passeur-55528">No title : valeursactuelles.com/monde/le-pere-daylan-kurdi-etait-il-passeur-55528</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5870480&amp;fromPlugin=false -->
+            <span class="address">valeursactuelles.com/monde/le-pere-daylan-kurdi-etait-il-passeur-55528</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5870480" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5870480&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5870480&vote=-1">0</a></span>            0.0020
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5870480&amp;fromPlugin=false">Le pÃ¨re d'Aylan passeurÂ ? Â«Valeurs actuellesÂ» sort l'indice qui fait pschitt - LibÃ©ration</a><br>
+                <span class="address">liberation.fr/desintox/2015/09/17/le-pere-d-aylan-passeur-valeurs-actu..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1332230" class="tag">Syria</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=14148" class="tag">Refugee</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5859774">Fenn</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.santeplusmag.com/voici-ce-que-le-micro-ondes-fait-a-votre-nourriture/">Voici ce que le micro-ondes fait Ã  votre nourriture</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5870244&amp;fromPlugin=false -->
+            <span class="address">santeplusmag.com/voici-ce-que-le-micro-ondes-fait-a-votre-nourriture/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5870244" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5870244&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5870244&vote=-1">0</a></span>            0.0020
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5870244&amp;fromPlugin=false">No title : cspinet.org/nah/04_05/microwavemyths.pdf</a><br>
+                <span class="address">cspinet.org/nah/04_05/microwavemyths.pdf</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5870240" class="tag">Micro-onde</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=785923" class="tag">danger</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5745" class="tag">microwave</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5870232">BunkerD</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.santeplusmag.com/voici-ce-que-le-micro-ondes-fait-a-votre-nourriture/">Voici ce que le micro-ondes fait Ã  votre nourriture</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5870241&amp;fromPlugin=false -->
+            <span class="address">santeplusmag.com/voici-ce-que-le-micro-ondes-fait-a-votre-nourriture/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5870241" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5870241&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5870241&vote=-1">0</a></span>            0.0020
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5870241&amp;fromPlugin=false">Les modes de cuisson - Le micro-onde est-il dangereux ?</a><br>
+                <span class="address">lanutrition.fr/bien-dans-son-assiette/bien-cuisiner/les-modes-de-cuiss..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5870240" class="tag">Micro-onde</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=785923" class="tag">danger</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5745" class="tag">microwave</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=5870232">BunkerD</a> 18 Sep</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://products.mercola.com/colloidal-silver/">Colloidal Silver | Salt-Free True Colloidal Silver Products</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=5867481&amp;fromPlugin=false -->
+            <span class="address">products.mercola.com/colloidal-silver/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=5867481" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5867481&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=5867481&vote=-1">0</a></span>            0.0020
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=5867481&amp;fromPlugin=false">Rosemary Jacob's argyria introduction page</a><br>
+                <span class="address">rosemaryjacobs.com/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5867480" class="tag">Colloidal Silver</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1895731">BTR</a> 17 Sep</span>
+    </td>
+</tr>
+	</table>
+<div id="Pagination">		<a onclick="getContent('ajaxLinks', 'trending', 173, 25);" href="javascript:void(0);">&lt;&lt; Previous Page</a>
+		174
+	<a onclick="getContent('ajaxLinks', 'trending', 175, 25);" href="javascript:void(0);">Next Page &gt;&gt;</a>
+</div>

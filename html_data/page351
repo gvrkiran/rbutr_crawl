@@ -1,0 +1,609 @@
+<div id="RebuttalsContainerSorting">
+	<div>				<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 350, 25);">Previous</a>
+		<form method="get" action="WebsiteServlet">
+			<input type="hidden" name="requestType" value="browse">
+			<input type="hidden" name="linkSort" value="trending">
+			<input type="hidden" name="pageNumber" value="351">
+			<select name="numberPerPage" onchange="this.form.submit()">					<option value="10">10</option>
+									<option value="25" selected>25</option>
+									<option value="50">50</option>
+									<option value="100">100</option>
+							</select>
+		</form>		<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 352, 25);">Next</a>
+	</div>
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 1, 25);">Trending</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'popularity', 1, 25);">Popularity</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'date', 1, 25);">Date</a>
+</div>
+<table class="RebuttalsContainer"><tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://blogs.discovermagazine.com/collideascape/2014/03/21/popular-guardian-story-collapse-industrial-civilization/">About that Popular Guardian Story on the Collapse of Industrial Civilization - Collide-a-Scape | DiscoverMagazine.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3688385&amp;fromPlugin=false -->
+            <span class="address">blogs.discovermagazine.com/collideascape/2014/03/21/popular-guardian-s..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3688385" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3688385&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3688385&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3688385&amp;fromPlugin=false">The Cutting Edge: The "Nasa collapse study" controversy: some thoughts</a><br>
+                <span class="address">nafeezahmed.com/2014/03/the-nasa-collapse-study-controversy.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3688380" class="tag">Collapse</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3688381" class="tag">Doomsday</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3688382" class="tag">Peak Oil</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2710198" class="tag">Civilization</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1760" class="tag">NASA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=315" class="tag">Climate Change</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 24 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://carboncounter.wordpress.com/2014/03/16/truly-inane-apocalyptic-journalism-at-the-guardian/">Truly inane apocalyptic journalism at the Guardian | Carbon Counter</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3688383&amp;fromPlugin=false -->
+            <span class="address">carboncounter.wordpress.com/2014/03/16/truly-inane-apocalyptic-journal..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3688383" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3688383&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3688383&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3688383&amp;fromPlugin=false">The Cutting Edge: The "Nasa collapse study" controversy: some thoughts</a><br>
+                <span class="address">nafeezahmed.com/2014/03/the-nasa-collapse-study-controversy.html</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3688380" class="tag">Collapse</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3688381" class="tag">Doomsday</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3688382" class="tag">Peak Oil</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2710198" class="tag">Civilization</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1760" class="tag">NASA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=315" class="tag">Climate Change</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=79">Shane</a> 24 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://scenaradvantage.com.au/">SCENAR THERAPY TREATMENT CENTRE AND SCENAR DEVICES - Pain Relief Device Sales - Scenar Health - Ritm Scenar - Back Pain - Scenar Machine - Scenar Advantage</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3687702&amp;fromPlugin=false -->
+            <span class="address">scenaradvantage.com.au/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3687702" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3687702&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3687702&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3687702&amp;fromPlugin=false">SCENAR Therapy | Skeptic Pete&#039;s Blog</a><br>
+                <span class="address">skepticpete.wordpress.com/2013/12/06/scenar-therapy/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2104" class="tag">Alternative Medicine</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=12528">Unifex</a> 24 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://beta.congress.gov/bill/113th/house-bill/3361">H.R.3361 - 113th Congress (2013-2014): USA FREEDOM Act | Congress.gov | Library of Congress</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3682768&amp;fromPlugin=false -->
+            <span class="address">beta.congress.gov/bill/113th/house-bill/3361</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3682768" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3682768&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3682768&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3682768&amp;fromPlugin=false">House libertarians blast USA Freedom Act | Rare</a><br>
+                <span class="address">rare.us/story/house-libertarians-blast-usa-freedom-act/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3682766" class="tag">NSA Surveillance</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3682767" class="tag">backroom deal</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2125054">conspiracygirl</a> 23 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://articles.chicagotribune.com/2014-01-27/opinion/ct-jury-nullification-edit-0127-20140127_1_jury-nullification-law-professor-jurors">The dangers of jury nullification - Chicago Tribune</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3679570&amp;fromPlugin=false -->
+            <span class="address">articles.chicagotribune.com/2014-01-27/opinion/ct-jury-nullification-e..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3679570" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3679570&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3679570&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3679570&amp;fromPlugin=false">8 Arguments Against Jury Nullification Rebutted | Flex Your Rights</a><br>
+                <span class="address">flexyourrights.org/8-jury-nullification-arguments-rebutted/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3686785" class="tag">Rights</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3686784" class="tag">Jury</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=55" class="tag">Law</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1907651" class="tag">Justice</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2125054">conspiracygirl</a> 23 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11259939">Happy to be left to our mobile devices - National - NZ Herald News</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3672133&amp;fromPlugin=false -->
+            <span class="address">nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11259939</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3672133" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3672133&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3672133&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3672133&amp;fromPlugin=false">Who did they survey again? | Stats Chat</a><br>
+                <span class="address">statschat.org.nz/2014/05/23/who-did-they-survey-again/</span>
+
+        <div class="comment">
+            &ldquo;A survey of smartphone users is not representative of the entire population of "Kiwis"&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1391" class="tag">Statistics</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3672130" class="tag">Smartphone</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3672131" class="tag">Survey</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3672132" class="tag">New Zealand</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=12641">Cipscis</a> 23 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.dailymail.co.uk/sciencetech/article-2634903/Have-aliens-visited-Earth-Nasa-book-suggests-ancient-rock-art-created-extra-terrestrials.html">Nasa book suggests that ancient rock art could have been created by aliens | Mail Online</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3668347&amp;fromPlugin=false -->
+            <span class="address">dailymail.co.uk/sciencetech/article-2634903/Have-aliens-visited-Earth-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3668347" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3668347&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3668347&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3668347&amp;fromPlugin=false">Debunked: Nasa: Strange Markings Across The Globe 'Might Have Been Made By Aliens' | Metabunk</a><br>
+                <span class="address">metabunk.org/threads/debunked-nasa-strange-markings-across-the-globe-m..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1760" class="tag">NASA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5768" class="tag">aliens</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1894">Mick</a> 22 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theblaze.com/stories/2014/05/21/book-published-by-nasa-actually-suggests-ancient-rock-art-might-have-been-made-by-aliens/">Book Published by NASA Actually Suggests Ancient Rock Art &#8216;Might Have Been Made by Aliens&#8217; | TheBlaze.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3668321&amp;fromPlugin=false -->
+            <span class="address">theblaze.com/stories/2014/05/21/book-published-by-nasa-actually-sugges..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3668321" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3668321&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3668321&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3668321&amp;fromPlugin=false">Debunked: Nasa: Strange Markings Across The Globe 'Might Have Been Made By Aliens' | Metabunk</a><br>
+                <span class="address">metabunk.org/threads/debunked-nasa-strange-markings-across-the-globe-m..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1760" class="tag">NASA</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=5768" class="tag">aliens</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1894">Mick</a> 22 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.nytimes.com/2014/05/20/opinion/brooks-the-big-debate.html">The Big Debate - NYTimes.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3665438&amp;fromPlugin=false -->
+            <span class="address">nytimes.com/2014/05/20/opinion/brooks-the-big-debate.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3665438" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3665438&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3665438&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3665438&amp;fromPlugin=false">No, David Brooks, we don&#8217;t need less democracy</a><br>
+                <span class="address">washingtonpost.com/blogs/wonkblog/wp/2014/05/20/no-david-brooks-we-don..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2364765" class="tag">Democracy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3665434" class="tag">David Brooks</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1895731">BTR</a> 22 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.nytimes.com/2014/05/20/opinion/brooks-the-big-debate.html">The Big Debate - NYTimes.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3665435&amp;fromPlugin=false -->
+            <span class="address">nytimes.com/2014/05/20/opinion/brooks-the-big-debate.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3665435" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3665435&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3665435&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3665435&amp;fromPlugin=false">David Brooks: Democracy Is a Drag; Put Guys Like Me in Charge</a><br>
+                <span class="address">fair.org/blog/2014/05/21/david-brooks-democracy-is-a-drag-put-guys-lik..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2364765" class="tag">Democracy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3665434" class="tag">David Brooks</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1895731">BTR</a> 22 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.bbc.com/news/science-environment-27435624">BBC News - UK "needs more home-grown energy"</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3661666&amp;fromPlugin=false -->
+            <span class="address">bbc.com/news/science-environment-27435624</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3661666" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3661666&vote=1">2</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3661666&vote=-1">1</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3661666&amp;fromPlugin=false">You know all those resources we're about to run out of? No, we aren't â¢ The Register</a><br>
+                <span class="address">theregister.co.uk/2014/05/22/energy_economics_coal/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3661665" class="tag">resources</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=3661625">Dennisvd</a> 22 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.filmsforaction.org/articles/nasa-study-concludes-when-civilization-will-end-and-its-not-looking-good-for-us/">NASA Study Concludes When Civilization Will End, And It's Not Looking Good for Us</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3657068&amp;fromPlugin=false -->
+            <span class="address">filmsforaction.org/articles/nasa-study-concludes-when-civilization-wil..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3657068" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3657068&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3657068&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3657068&amp;fromPlugin=false">About that Popular Guardian Story on the Collapse of Industrial Civilization - Collide-a-Scape | DiscoverMagazine.com</a><br>
+                <span class="address">blogs.discovermagazine.com/collideascape/2014/03/21/popular-guardian-s..</span>
+
+        <div class="comment">
+            &ldquo;A science journalist examines the claims.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1760" class="tag">NASA</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=76">Craig</a> 22 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://farmwars.info/?p=7760">Monsanto Patents and Chemtrails | Farm Wars</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3652341&amp;fromPlugin=false -->
+            <span class="address">farmwars.info/?p=7760</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3652341" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3652341&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3652341&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3652341&amp;fromPlugin=false">Debunked: Monsanto Patents and Chemtrails (Infowars' GMO-Chemtrail Connection) | Metabunk</a><br>
+                <span class="address">metabunk.org/threads/debunked-monsanto-patents-and-chemtrails-infowars..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3688426" class="tag">Alex Jones</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=6345" class="tag">chemtrails</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2180" class="tag">Conspiracy</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1894">Mick</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://leplus.nouvelobs.com/contribution/1200234-dessin-lien-entre-telephone-portable-et-cancer-va-t-on-se-transformer-en-e-t.html">DESSIN. Lien entre téléphone portable et cancer : va-t-on se transformer en E.T ? - le Plus</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651892&amp;fromPlugin=false -->
+            <span class="address">leplus.nouvelobs.com/contribution/1200234-dessin-lien-entre-telephone-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651892" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651892&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651892&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651892&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.pourquoidocteur.fr/Telephone-portable---risque-de-cancer-pour-les-utilisateurs-intensifs-6456.html">Pourquoi Docteur</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651890&amp;fromPlugin=false -->
+            <span class="address">pourquoidocteur.fr/Telephone-portable---risque-de-cancer-pour-les-util..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651890" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651890&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651890&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651890&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.e-sante.fr/telephone-portable-reprendre-oreillette-pour-proteger-son-cerveau/blog/1493">Téléphone portable et risque de cancer, e-sante.fr</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651888&amp;fromPlugin=false -->
+            <span class="address">e-sante.fr/telephone-portable-reprendre-oreillette-pour-proteger-son-c..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651888" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651888&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651888&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651888&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.santelog.com/news/cancerologie/mobile-et-cancer-du-cerveau-le-risque-commence-avec-l-exces_12333_lirelasuite.htm#lirelasuite">Actu sant� : MOBILE et CANCER du cerveau: Le risque commence avec l�exc�s</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651886&amp;fromPlugin=false -->
+            <span class="address">santelog.com/news/cancerologie/mobile-et-cancer-du-cerveau-le-risque-c..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651886" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651886&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651886&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651886&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.aufeminin.com/news-societe/telephone-portable-usage-prolonge-danger-s430107.html">Téléphone portable : un usage intensif favorise les tumeurs - aufeminin</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651884&amp;fromPlugin=false -->
+            <span class="address">aufeminin.com/news-societe/telephone-portable-usage-prolonge-danger-s4..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651884" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651884&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651884&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651884&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.lesechos.fr/entreprises-secteurs/tech-medias/actu/0203493921141-telephone-portable-une-etude-relance-le-debat-sur-le-risque-accru-de-cancer-670529.php">Téléphone portable : une étude relance le débat sur le risque accru de cancer, Actualités</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651882&amp;fromPlugin=false -->
+            <span class="address">lesechos.fr/entreprises-secteurs/tech-medias/actu/0203493921141-teleph..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651882" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651882&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651882&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651882&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.lepoint.fr/editos-du-point/anne-jeanblanc/cancer-du-cerveau-les-telephones-portables-de-nouveau-mis-en-cause-13-05-2014-1821956_57.php">Cancer du cerveau : les téléphones portables mis en cause | Site mobile Le Point</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651880&amp;fromPlugin=false -->
+            <span class="address">lepoint.fr/editos-du-point/anne-jeanblanc/cancer-du-cerveau-les-teleph..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651880" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651880&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651880&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651880&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.sudouest.fr/2014/05/13/cancer-du-cerveau-et-telephone-portable-le-lien-se-confirme-1553323-4696.php">Cancer du cerveau et téléphone portable : le lien se confirme - SudOuest.fr</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651878&amp;fromPlugin=false -->
+            <span class="address">sudouest.fr/2014/05/13/cancer-du-cerveau-et-telephone-portable-le-lien..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651878" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651878&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651878&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651878&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://sante.lefigaro.fr/actualite/2014/05/13/22339-telephone-portable-cancer-cerveau-risque-confirme">Téléphone portable et cancer du cerveau : le risque confirmé | Actualité | LeFigaro.fr - Santé</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651876&amp;fromPlugin=false -->
+            <span class="address">sante.lefigaro.fr/actualite/2014/05/13/22339-telephone-portable-cancer..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651876" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651876&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651876&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651876&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.bfmtv.com/societe/portables-cancer-cerveau-une-etude-etablit-un-nouveau-lien-772997.html">Cancer du cerveau: une nouvelle étude fait le lien avec le portable - BFMTV.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651874&amp;fromPlugin=false -->
+            <span class="address">bfmtv.com/societe/portables-cancer-cerveau-une-etude-etablit-un-nouvea..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651874" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651874&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651874&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651874&amp;fromPlugin=false">Portables : après 900 heures d'appels, un risque accru de cancer ? &rsaquo; Santé &rsaquo; Le Journal de la Science</a><br>
+                <span class="address">journaldelascience.fr/sante/articles/portables-apres-900-heures-dappel..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://leplus.nouvelobs.com/contribution/1200234-dessin-lien-entre-telephone-portable-et-cancer-va-t-on-se-transformer-en-e-t.html">DESSIN. Lien entre téléphone portable et cancer : va-t-on se transformer en E.T ? - le Plus</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651871&amp;fromPlugin=false -->
+            <span class="address">leplus.nouvelobs.com/contribution/1200234-dessin-lien-entre-telephone-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651871" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651871&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651871&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651871&amp;fromPlugin=false">TÃ©lÃ©phone et cancer du cerveau : l'emballement mÃ©diatique aprÃ¨s une Ã©tude controversÃ©e</a><br>
+                <span class="address">mac4ever.com/actu/89731_telephone-et-cancer-du-cerveau-l-emballement-m..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.pourquoidocteur.fr/Telephone-portable---risque-de-cancer-pour-les-utilisateurs-intensifs-6456.html">Pourquoi Docteur</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3651869&amp;fromPlugin=false -->
+            <span class="address">pourquoidocteur.fr/Telephone-portable---risque-de-cancer-pour-les-util..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3651869" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651869&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3651869&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3651869&amp;fromPlugin=false">TÃ©lÃ©phone et cancer du cerveau : l'emballement mÃ©diatique aprÃ¨s une Ã©tude controversÃ©e</a><br>
+                <span class="address">mac4ever.com/actu/89731_telephone-et-cancer-du-cerveau-l-emballement-m..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">        </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1183852">Thomas Guiot</a> 21 May</span>
+    </td>
+</tr>
+	</table>
+<div id="Pagination">		<a onclick="getContent('ajaxLinks', 'trending', 350, 25);" href="javascript:void(0);">&lt;&lt; Previous Page</a>
+		351
+	<a onclick="getContent('ajaxLinks', 'trending', 352, 25);" href="javascript:void(0);">Next Page &gt;&gt;</a>
+</div>

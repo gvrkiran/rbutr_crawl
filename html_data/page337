@@ -1,0 +1,647 @@
+<div id="RebuttalsContainerSorting">
+	<div>				<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 336, 25);">Previous</a>
+		<form method="get" action="WebsiteServlet">
+			<input type="hidden" name="requestType" value="browse">
+			<input type="hidden" name="linkSort" value="trending">
+			<input type="hidden" name="pageNumber" value="337">
+			<select name="numberPerPage" onchange="this.form.submit()">					<option value="10">10</option>
+									<option value="25" selected>25</option>
+									<option value="50">50</option>
+									<option value="100">100</option>
+							</select>
+		</form>		<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 338, 25);">Next</a>
+	</div>
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'trending', 1, 25);">Trending</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'popularity', 1, 25);">Popularity</a> - 
+	<a href="javascript:void(0);" onclick="getContent('ajaxLinks', 'date', 1, 25);">Date</a>
+</div>
+<table class="RebuttalsContainer"><tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://arstechnica.com/information-technology/2014/06/eugene-the-supercomputer-not-13-year-old-first-to-beat-the-turing-test/">Eugene—the supercomputer, not 13-year-old—first to beat the Turing Test | Ars Technica</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3853025&amp;fromPlugin=false -->
+            <span class="address">arstechnica.com/information-technology/2014/06/eugene-the-supercompute..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3853025" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853025&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853025&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3853025&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.pcworld.com/article/2361220/computer-said-to-pass-turing-test-by-posing-as-a-teenager.html">An AI milestone: Chatbot passes Turing Test by posing as 13-year-old boy | PCWorld</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3853022&amp;fromPlugin=false -->
+            <span class="address">pcworld.com/article/2361220/computer-said-to-pass-turing-test-by-posin..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3853022" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853022&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853022&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3853022&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.independent.co.uk/life-style/gadgets-and-tech/computer-becomes-first-to-pass-turing-test-in-artificial-intelligence-milestone-but-academics-warn-of-dangerous-future-9508370.html">No title : independent.co.uk/life-style/gadgets-and-tech/computer-becomes-first-t..</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3853019&amp;fromPlugin=false -->
+            <span class="address">independent.co.uk/life-style/gadgets-and-tech/computer-becomes-first-t..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3853019" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853019&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853019&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3853019&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://venturebeat.com/2014/06/08/talk-to-the-computer-that-passed-the-turing-test-a-historic-artificial-intelligence-milestone/">Talk to the computer that passed the Turing Test, a historic artificial intelligence milestone | VentureBeat | Gadgets | by Gregory Ferenstein</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3853016&amp;fromPlugin=false -->
+            <span class="address">venturebeat.com/2014/06/08/talk-to-the-computer-that-passed-the-turing..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3853016" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853016&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853016&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3853016&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theverge.com/2014/6/8/5790936/computer-passes-turing-test-for-first-time-by-convincing-judges-it-is">Computer allegedly passes Turing Test for first time by convincing judges it is a 13-year-old boy | The Verge</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3853013&amp;fromPlugin=false -->
+            <span class="address">theverge.com/2014/6/8/5790936/computer-passes-turing-test-for-first-ti..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3853013" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853013&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853013&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3853013&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.nbcnews.com/tech/tech-news/turing-test-computer-program-convinces-judges-its-human-n125786">Turing Test: Computer Program Convinces Judges It's Human - NBC News</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3853010&amp;fromPlugin=false -->
+            <span class="address">nbcnews.com/tech/tech-news/turing-test-computer-program-convinces-judg..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3853010" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853010&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853010&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3853010&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.washingtonpost.com/news/morning-mix/wp/2014/06/09/a-computer-just-passed-the-turing-test-in-landmark-trial/">A computer just passed the Turing Test in landmark trial</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3853007&amp;fromPlugin=false -->
+            <span class="address">washingtonpost.com/news/morning-mix/wp/2014/06/09/a-computer-just-pass..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3853007" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853007&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853007&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3853007&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.thewire.com/technology/2014/06/for-the-first-time-ever-a-computer-passed-turing-test-for-artificial-intelligence/372392/">For the First Time Ever, a Computer Passed Turing Test for Artificial Intelligence - The Wire</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3853004&amp;fromPlugin=false -->
+            <span class="address">thewire.com/technology/2014/06/for-the-first-time-ever-a-computer-pass..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3853004" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853004&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3853004&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3853004&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theguardian.com/technology/2014/jun/08/super-computer-simulates-13-year-old-boy-passes-turing-test">Computer simulating 13-year-old boy becomes first to pass Turing test | Technology | theguardian.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3852998&amp;fromPlugin=false -->
+            <span class="address">theguardian.com/technology/2014/jun/08/super-computer-simulates-13-yea..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3852998" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852998&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852998&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3852998&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.cnet.com/au/news/computer-program-fools-humans-allegedly-passes-turing-test/">No title : cnet.com/au/news/computer-program-fools-humans-allegedly-passes-turing..</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3852995&amp;fromPlugin=false -->
+            <span class="address">cnet.com/au/news/computer-program-fools-humans-allegedly-passes-turing..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3852995" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852995&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852995&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3852995&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Gullible tech reporters fooled.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=20" class="tag">Technology</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://news.yahoo.com/first-time-ever-computer-passed-turing-test-artificial-194950758.html">For the First Time Ever, a Computer Passed Turing Test for Artificial Intelligence - Yahoo News</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3852664&amp;fromPlugin=false -->
+            <span class="address">news.yahoo.com/first-time-ever-computer-passed-turing-test-artificial-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3852664" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852664&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852664&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3852664&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Viral news is wrong..... again.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852656" class="tag">Computing</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://gawker.com/60-years-after-his-death-the-first-computer-passes-the-1587865576?utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow">Computer Passes Turing Test on 60th Anniversary of Turing's Death</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3852661&amp;fromPlugin=false -->
+            <span class="address">gawker.com/60-years-after-his-death-the-first-computer-passes-the-1587..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3852661" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852661&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852661&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3852661&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Viral news is wrong..... again.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852656" class="tag">Computing</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.sciencealert.com.au/news/20140906-25642.html">Meet the first computer to pass the Turing Test (Science Alert)</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3852658&amp;fromPlugin=false -->
+            <span class="address">sciencealert.com.au/news/20140906-25642.html</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3852658" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852658&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852658&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3852658&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;Viral news is wrong..... again.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852657" class="tag">Turing test</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852656" class="tag">Computing</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.peta.org/features/got-autism-learn-link-dairy-products-disease/">Got Autism? Learn About the Link Between Dairy Products and the Disorder | Features | PETA</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3852606&amp;fromPlugin=false -->
+            <span class="address">peta.org/features/got-autism-learn-link-dairy-products-disease/</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3852606" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852606&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3852606&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3852606&amp;fromPlugin=false">Gluten-free and casein-free diets in the treatment of autism spectrum disorders: A systematic review</a><br>
+                <span class="address">sciencedirect.com/science/article/pii/S1750946709001111</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2508072" class="tag">Dairy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=4834" class="tag">diet</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1465" class="tag">Autism</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852605" class="tag">gluten-free</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3852604" class="tag">casein-free</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3745170" class="tag">PETA</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=13103">paulgall</a> 10 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.barrick.com/responsibility/human-rights/default.aspx">Barrick Gold Corporation - Responsibility - Human Rights</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3851142&amp;fromPlugin=false -->
+            <span class="address">barrick.com/responsibility/human-rights/default.aspx</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3851142" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3851142&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3851142&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3851142&amp;fromPlugin=false">Papua New Guinea: Serious Abuses at Barrick Gold Mine | Human Rights Watch</a><br>
+                <span class="address">hrw.org/news/2011/02/01/papua-new-guinea-serious-abuses-barrick-gold-m..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=11274" class="tag">Human Rights</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3851141" class="tag">Barrick Gold Mining</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1895731">BTR</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://gizmodo.com/this-is-the-first-computer-in-history-to-have-passed-th-1587780232">A Computer Program Has Passed the Turing Test For the First Time</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3850445&amp;fromPlugin=false -->
+            <span class="address">gizmodo.com/this-is-the-first-computer-in-history-to-have-passed-th-15..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3850445" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3850445&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3850445&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3850445&amp;fromPlugin=false">No, A 'Supercomputer' Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pa..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3850444" class="tag">Computer passes Turing test</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=2514623">Kyle Rutland</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.motherjones.com/tom-philpott/2014/05/nanotech-food-safety-fda-nano-material">Big Dairy Is Putting Microscopic Pieces of Metal in Your Food | Mother Jones</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3850041&amp;fromPlugin=false -->
+            <span class="address">motherjones.com/tom-philpott/2014/05/nanotech-food-safety-fda-nano-mat..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3850041" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3850041&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3850041&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3850041&amp;fromPlugin=false">We are doomed… | Rapha-z-lab</a><br>
+                <span class="address">raphazlab.wordpress.com/2014/06/05/we-are-doomed/</span>
+
+        <div class="comment">
+            &ldquo;A nanotech researcher is dismayed at the media coverage of this topic.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=148571" class="tag">nanoparticles</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=147586" class="tag">nanotech</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=758">MaryM</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.usatoday.com/story/money/business/2014/06/05/wal-mart-shareholder-party-could-face-poopers/10031123/">Wal-Mart's annual shareholder party could face party poopers</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3850009&amp;fromPlugin=false -->
+            <span class="address">usatoday.com/story/money/business/2014/06/05/wal-mart-shareholder-part..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3850009" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3850009&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3850009&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3850009&amp;fromPlugin=false">USA Today and Wal-Mart Poop</a><br>
+                <span class="address">fair.org/blog/2014/06/06/usa-today-and-wal-mart-poop/</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3850008" class="tag">Wal-Mart</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1895731">BTR</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.forbes.com/sites/timworstall/2014/06/05/raising-americas-pay-might-someone-hit-the-epi-with-a-cluebat-please/">Raising America's Pay; Might Someone Hit The EPI With A Cluebat Please - Forbes</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3849994&amp;fromPlugin=false -->
+            <span class="address">forbes.com/sites/timworstall/2014/06/05/raising-americas-pay-might-som..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3849994" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849994&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849994&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3849994&amp;fromPlugin=false">Writing Unions Out of the Story on Fighting Poverty</a><br>
+                <span class="address">fair.org/blog/2014/06/06/writing-unions-out-of-the-story-on-fighting-p..</span>
+
+        <div class="comment">
+            &ldquo;Writing Unions Out of the Story on Fighting Poverty&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=12715" class="tag">Poverty</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2183" class="tag">Economics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1895731">BTR</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.nytimes.com/2014/06/05/upshot/growth-has-been-good-for-decades-so-why-hasnt-poverty-declined.html">Growth Has Been Good for Decades. So Why Hasnât Poverty Declined? - NYTimes.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3849986&amp;fromPlugin=false -->
+            <span class="address">nytimes.com/2014/06/05/upshot/growth-has-been-good-for-decades-so-why-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3849986" style="float:left;margin-right:7px;"> </a>                <span title="<- Click the chain img to view this rbutl link" style="float:left;">View</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849986&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849986&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3849986&amp;fromPlugin=false">Writing Unions Out of the Story on Fighting Poverty</a><br>
+                <span class="address">fair.org/blog/2014/06/06/writing-unions-out-of-the-story-on-fighting-p..</span>
+
+        <div class="comment">
+            &ldquo;Writing Unions Out of the Story on Fighting Poverty&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=12715" class="tag">Poverty</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2183" class="tag">Economics</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=1895731">BTR</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.slate.com/blogs/browbeat/2014/06/02/slavoj_zizek_calls_students_stupid_and_boring_stop_worshiping_this_man_video.html">Slavoj Zizek calls students stupid and boring. Stop worshiping this man! (VIDEO.)</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3849794&amp;fromPlugin=false -->
+            <span class="address">slate.com/blogs/browbeat/2014/06/02/slavoj_zizek_calls_students_stupid..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3849794" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849794&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849794&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3849794&amp;fromPlugin=false">Rebecca Schuman vs Slavoj Zizek vs Academia: Time to Grow Up &laquo; The Love Revolution</a><br>
+                <span class="address">atravelersnote.wordpress.com/2014/06/04/rebecca-schuman-vs-slavoj-zize..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=50" class="tag">Philosophy</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3576469" class="tag">Academia</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3849793" class="tag">Slavoj Zizek</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=13458">Lazarius</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.theguardian.com/technology/2014/jun/08/super-computer-simulates-13-year-old-boy-passes-turing-test?CMP=soc_567">Computer simulating 13-year-old boy becomes first to pass Turing test | Technology | theguardian.com</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3849663&amp;fromPlugin=false -->
+            <span class="address">theguardian.com/technology/2014/jun/08/super-computer-simulates-13-yea..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3849663" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849663&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849663&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3849663&amp;fromPlugin=false">No, A &#39;Supercomputer&#39; Did NOT Pass The Turing Test For The First Time And Everyone Should Know Better | Techdirt</a><br>
+                <span class="address">techdirt.com/articles/20140609/07284327524/no-computer-did-not-pass-tu..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1813191" class="tag">Computers</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=3841803">Bunyip Wallows</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://herbsandoilsremedies.blogspot.com/2013/09/how-to-make-homemade-natural-weed-killer.html">How To Make Homemade Natural Weed Killer | Herbs And Oils</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3849623&amp;fromPlugin=false -->
+            <span class="address">herbsandoilsremedies.blogspot.com/2013/09/how-to-make-homemade-natural..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3849623" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849623&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849623&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3849623&amp;fromPlugin=false">Salt, Vinegar, and Glyphosate | Control Freaks</a><br>
+                <span class="address">weedcontrolfreaks.com/2014/06/salt-vinegar-and-glyphosate/comment-page..</span>
+
+        <div class="comment">
+            &ldquo;Turns out that specifically developed weed controls chemicals are far superior to stuff you try to make yourself.&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=714061" class="tag">chemicals</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3849568" class="tag">Weeds</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=194702" class="tag">glyphosate</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=667574" class="tag">natural cures</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.slate.com/articles/health_and_science/science/2014/01/monarch_butterfly_decline_monsanto_s_roundup_is_killing_milkweed.html">Monarch butterfly decline: Monsanto’s Roundup is killing milkweed.</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3849572&amp;fromPlugin=false -->
+            <span class="address">slate.com/articles/health_and_science/science/2014/01/monarch_butterfl..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3849572" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849572&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849572&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3849572&amp;fromPlugin=false">Are herbicides responsible for the decline in Monarch butterflies? | Control Freaks</a><br>
+                <span class="address">weedcontrolfreaks.com/2014/02/are-herbicides-responsible-for-the-decli..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3849498" class="tag">Milkweed</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2421458" class="tag">Monarch Butterflies</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3849568" class="tag">Weeds</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=194702" class="tag">glyphosate</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=38053" class="tag">Monsanto</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 09 Jun</span>
+    </td>
+</tr>
+	<tr>        <td>
+            <a rel="nofollow" class="hoverUrlImage" target="_blank" href="http://www.motherjones.com/tom-philpott/2012/03/researchers-gm-crops-are-killing-monarch-butterflies-after-all">Researchers: GM Crops Are Killing Monarch Butterflies, After All | Mother Jones</a><br>
+            <!-- Redirect URL http://rbutr.com/rbutr/PluginServlet?redirect=3849569&amp;fromPlugin=false -->
+            <span class="address">motherjones.com/tom-philpott/2012/03/researchers-gm-crops-are-killing-..</span>
+        </td>        <td class="middle">
+        <nobr>
+        <a class="link" title="View the link"  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=showLink&linkId=3849569" style="float:left;margin-right:7px;"> </a>                <span title="This is a direct rbutl" style="float:left;">D</span>
+                            </nobr>
+        <br style="clear:left;">
+        <span title="Vote this up" class="thumbsUp"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849569&vote=1">1</a></span>
+        <span title="Vote this down" class="thumbsDown"><a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=vote&amp;linkId=3849569&vote=-1">0</a></span>            0.0007
+            </td>
+    <td>            <a class="hoverUrlImage" target="_blank" href="http://rbutr.com/rbutr/PluginServlet?redirect=3849569&amp;fromPlugin=false">Are herbicides responsible for the decline in Monarch butterflies? | Control Freaks</a><br>
+                <span class="address">weedcontrolfreaks.com/2014/02/are-herbicides-responsible-for-the-decli..</span>
+
+        <div class="comment">
+            &ldquo;&rdquo;
+        </div>
+        <div class="bottom">                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=1268" class="tag">GMO</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3849498" class="tag">Milkweed</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=2421458" class="tag">Monarch Butterflies</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=3849568" class="tag">Weeds</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=194702" class="tag">glyphosate</a>
+                                    <a  href="http://rbutr.com/rbutr/WebsiteServlet?requestType=browse&amp;tagId=38053" class="tag">Monsanto</a>
+                                    </div>
+        <span class="linkBy">Link by <a  href="http://rbutr.com/rbutr/LoginServlet?requestType=userPage&amp;personId=66232">tscanlon</a> 09 Jun</span>
+    </td>
+</tr>
+	</table>
+<div id="Pagination">		<a onclick="getContent('ajaxLinks', 'trending', 336, 25);" href="javascript:void(0);">&lt;&lt; Previous Page</a>
+		337
+	<a onclick="getContent('ajaxLinks', 'trending', 338, 25);" href="javascript:void(0);">Next Page &gt;&gt;</a>
+</div>
